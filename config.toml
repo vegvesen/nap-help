@@ -1,5 +1,11 @@
-baseURL = "http://transportportal.no/"
+baseURL = "/"
 languageCode = "en-us"
-title = "NAP - National Access Point (for transportdata)"
+title = "NAP - Norwegian Access Point (for transportdata)"
 enableEmoji = "true"
 enableGitInfo = "true"
+author = "Steinar Kjærnsrød"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+theme = "silhouette-hugo"
+
+[params]
+  dataut = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
