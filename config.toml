@@ -1,11 +1,13 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "NAP - Norwegian Access Point (for transportdata)"
+title = "NAP - Norsk aksesspunkt for transport- og trafikkdata"
 enableEmoji = "true"
 enableGitInfo = "true"
 author = "Steinar Kjærnsrød"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "silhouette-hugo"
+publishDir = "docs"
 
 [params]
-  dataut = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
+  datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
+  author = "Statens vegvesen"
