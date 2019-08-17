@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://skibohemen.github.io/nap-help/"
 languageCode = "en-us"
 title = "NAP - Norsk aksesspunkt for transport- og trafikkdata"
 enableEmoji = "true"
