@@ -2,4 +2,5 @@
 title: NAP
 url: /
 ---
-Velkommen til «NAP» - det norske aksesspunktet for *åpne data* knyttet til transport og vegtrafikk. Se [her](https://ec.europa.eu/transport/themes/its/road/action_plan/nap_en)
+Velkommen til «NAP» - det norske tilgangspunktet for *åpne data* knyttet til tjenester- og data om transport, trafikk og mobilitet.
+Du vil finne data fra både offentlige og private virksomheter i portalen. Les mer om «NAP» ved å følge linkene du finner på denne siden.
