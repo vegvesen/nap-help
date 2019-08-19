@@ -38,9 +38,10 @@
 {{ end }}
 {{ define "header" }}
   {{ if .IsHome }}
-    <header class="feature-image">
+    <header class="feature-image svv-position">
+       {{ partial "image-copyright" . }}
         <div class="feature-image-text white-shadow-text">
-            {{/* partial "header-about-me" . */}}
+
         </div>
     </header>
   {{ end }}
@@ -59,7 +60,6 @@
                 {{ end }}
               {{ end }}
             {{ end }}
-
 
             {{ $title := urlize .Title }}
             {{ with .Site.Taxonomies.tags }}

@@ -18,9 +18,11 @@
 
         {{ $styles := resources.Get "css/styles.css" }}
         {{ $syntax := resources.Get "css/syntax.css" }}
+        {{ $svv    := resources.Get "css/svv.css" }}
         {{ $styles := slice $styles $syntax | resources.Concat "css/bundle.css" | minify | fingerprint }}
 
         <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}"  />
+        <link rel="stylesheet" href="css/svv.css">
 
         {{ block "head" . }}{{ end }}
     </head>

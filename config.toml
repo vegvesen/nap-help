@@ -11,3 +11,4 @@ publishDir = "docs"
 [params]
   datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
   author = "Statens vegvesen"
+  imgauthor = "Silje Drevdal, Statens vegvesen"

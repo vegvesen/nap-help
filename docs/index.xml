@@ -11,12 +11,13 @@
     
     
     <item>
-      <title>Om NAP portalen</title>
+      <title>Om NAP-portalen</title>
       <link>https://skibohemen.github.io/nap-help/about/</link>
       <pubDate>Thu, 15 Aug 2019 10:21:00 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/about/</guid>
-      <description>Denne portalen inneholder datasett som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler på datasett er informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene, alt med tilknyttet geografisk plassering. Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata som følge av EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven. Alle land innenfor EU/EØS skal opprette et slikt tilgangspunkt for å støtte utvikling av sammenhengende informasjonstjenester i Europa.</description>
+      <description>Denne portalen inneholder datasett som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler på datasett er informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
+Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata som følge av EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven. Alle land innenfor EU/EØS skal opprette et slikt tilgangspunkt for å støtte utvikling av sammenhengende informasjonstjenester i Europa.</description>
     </item>
     
   </channel>
