@@ -11,4 +11,5 @@ publishDir = "docs"
 [params]
   datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
   author = "Statens vegvesen"
-  imgauthor = "Venabygdsfjellet - Werner Harstad, Statens vegvesen"
+  imgauthor = "Sørfold - Jarle Wæhler, Statens vegvesen"
+  background_image = "images/Sorfold.jpg"

@@ -5,7 +5,7 @@
         background-image: linear-gradient(
             rgba(0, 0, 0, 0.15),
             rgba(0, 0, 0, 0.15)
-          ), url('{{ "images/Venabygdsfjellet.jpg" | absURL }}');
+          ), url('{{ $.Site.Params.background_image | absURL }}');
           height: 550px;
       }
 
@@ -40,9 +40,6 @@
   {{ if .IsHome }}
     <header class="feature-image svv-position">
        {{ partial "image-copyright" . }}
-        <div class="feature-image-text white-shadow-text">
-
-        </div>
     </header>
   {{ end }}
   {{ if not .IsHome }}
