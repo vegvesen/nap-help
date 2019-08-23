@@ -12,10 +12,10 @@
     
     <item>
       <title>Legg inn data i NAP</title>
-      <link>https://skibohemen.github.io/nap-help/help/add-data/</link>
+      <link>https://skibohemen.github.io/nap-help/owner/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/help/add-data/</guid>
+      <guid>https://skibohemen.github.io/nap-help/owner/add-data/</guid>
       <description></description>
     </item>
     
@@ -26,7 +26,7 @@
       
       <guid>https://skibohemen.github.io/nap-help/about/</guid>
       <description>Denne portalen inneholder pekere til datasett og tjenester som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
-Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata som følge av EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven. Alle land innenfor EU/EØS skal opprette et slikt tilgangspunkt for å støtte utvikling av sammenhengende informasjonstjenester i Europa.</description>
+Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven. Alle land innenfor EU/EØS skal opprette et slikt tilgangspunkt for å støtte utvikling av sammenhengende informasjonstjenester i Europa.</description>
     </item>
     
   </channel>

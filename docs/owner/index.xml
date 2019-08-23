@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NAP - Norsk aksesspunkt for transport- og trafikkdata</title>
-    <link>https://skibohemen.github.io/nap-help/help/</link>
+    <link>https://skibohemen.github.io/nap-help/owner/</link>
     <description>Recent content on NAP - Norsk aksesspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
+    <lastBuildDate>Tue, 20 Aug 2019 06:49:25 +0200</lastBuildDate>
     
-	<atom:link href="https://skibohemen.github.io/nap-help/help/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://skibohemen.github.io/nap-help/owner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Legg inn data i NAP</title>
-      <link>https://skibohemen.github.io/nap-help/help/add-data/</link>
+      <link>https://skibohemen.github.io/nap-help/owner/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/help/add-data/</guid>
+      <guid>https://skibohemen.github.io/nap-help/owner/add-data/</guid>
       <description></description>
     </item>
     
