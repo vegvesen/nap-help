@@ -6,18 +6,18 @@
     <description>Recent content on NAP - Norsk aksesspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Aug 2019 06:49:25 +0200</lastBuildDate>
     
 	<atom:link href="https://skibohemen.github.io/nap-help/owner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Legg inn data i NAP</title>
+      <title>Legge inn data i NAP</title>
       <link>https://skibohemen.github.io/nap-help/owner/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/owner/add-data/</guid>
-      <description></description>
+      <description>NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
+ via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
     </item>
     
   </channel>

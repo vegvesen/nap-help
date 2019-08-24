@@ -14,12 +14,3 @@ Både offentlige og private virksomheter er forventet å bidra med datasett til 
 Statens vegvesen er tildelt ansvaret for å iverksette og forvalte det nasjonale tilgangspunktet, og har mandat til å vurdere om et datasett faller inn under det som er spesifisert i forordningene knyttet til ITS-direktivet.
 
 Katalogen over datasett er en integrert del av Brønnøysundregistrenes "Felles datakatalog for Norge".
-
-## Til deg som vil få tilgang til data
-Portalen inneholder kun *metadata* om datasettet dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
-
-Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
-
-Alle datasett som knyttes opp mot portalen skal være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene. Brudd på personvernlovgiving kan medføre reaksjoner.
-
-Feil i data som oppdages av eier eller meldes av bruker skal rettes uten forsinkelse.

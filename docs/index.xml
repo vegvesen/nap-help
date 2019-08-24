@@ -11,12 +11,24 @@
     
     
     <item>
-      <title>Legg inn data i NAP</title>
+      <title>Legge inn data i NAP</title>
       <link>https://skibohemen.github.io/nap-help/owner/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/owner/add-data/</guid>
-      <description></description>
+      <description>NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
+ via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
+    </item>
+    
+    <item>
+      <title>Innhold av NAP</title>
+      <link>https://skibohemen.github.io/nap-help/user/what/</link>
+      <pubDate>Sun, 18 Aug 2019 12:23:00 +0200</pubDate>
+      
+      <guid>https://skibohemen.github.io/nap-help/user/what/</guid>
+      <description>Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
+Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
+Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.</description>
     </item>
     
     <item>
