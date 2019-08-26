@@ -2,7 +2,7 @@
     {{ if .IsHome }}
   <!--  <h2>Top Posts</h2> -->
     {{ else }}
-        <h2>{{ .Site.Params.Author }}</h2>
+        <h2>Dokumentasjon</h2>
         <div>
             {{ .Site.Params.IntroDescription }}
         </div>
@@ -12,15 +12,15 @@
     {{ range .Site.Taxonomies.tags.featured  }}
         <a href="{{ .Permalink }}" class="nav-link">{{ .Title }}</a>
     {{ end }}
-    <h2 class="mt-4">Bruk av NAP</h2>
+    <h3 class="mt-4">Bruk av NAP</h3>
     <nav class="nav flex-column">
-        {{ range first 8 (where (where .Site.Pages "Section" "user") ".Params.hidden" "!=" true) }}
+        {{ range first 8 (where (where .Site.Pages "Section" "read") ".Params.hidden" "!=" true) }}
         <a href="{{ .Permalink }}" class="nav-link">{{ .Title }}</a>
         {{ end }}
     </nav>
-    <h2 class="mt-4">Legge inn data</h2>
+    <h3 class="mt-4">Legge inn data</h3>
     <nav class="nav flex-column">
-        {{ range first 8 (where (where .Site.Pages "Section" "owner") ".Params.hidden" "!=" true) }}
+        {{ range first 8 (where (where .Site.Pages "Section" "write") ".Params.hidden" "!=" true) }}
         <a href="{{ .Permalink }}" class="nav-link">{{ .Title }}</a>
         {{ end }}
     </nav>
