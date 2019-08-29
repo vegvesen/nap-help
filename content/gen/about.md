@@ -1,5 +1,5 @@
 ---
-title: "Om NAP-portalen"
+title: "Informasjon om NAP-portalen"
 date: 2019-08-15T10:21:00+02:00
 draft: false
 url: /about/

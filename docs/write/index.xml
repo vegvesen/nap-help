@@ -6,10 +6,18 @@
     <description>Recent content on NAP - Norsk aksesspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Aug 2019 06:49:25 +0200</lastBuildDate>
     
 	<atom:link href="https://skibohemen.github.io/nap-help/write/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DCAT standarden</title>
+      <link>https://skibohemen.github.io/nap-help/write/dcat/</link>
+      <pubDate>Sun, 25 Aug 2019 15:28:51 +0200</pubDate>
+      
+      <guid>https://skibohemen.github.io/nap-help/write/dcat/</guid>
+      <description>fjkajfksadjkl</description>
+    </item>
     
     <item>
       <title>Legge inn data i NAP</title>
