@@ -2,6 +2,7 @@ baseURL = "https://skibohemen.github.io/nap-help/"
 relativeURLs = "true"
 languageCode = "no"
 languageName = "Norsk"
+buildDrafts = true
 title = "NAP - Norsk aksesspunkt for transport- og trafikkdata"
 enableEmoji = "true"
 enableGitInfo = "true"

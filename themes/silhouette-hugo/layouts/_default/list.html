@@ -73,6 +73,7 @@
 {{ end }}
 {{ define "main" }}
   <div class="container mt-4 mb-4 recent-posts">
+    <small>Sist oppdatert {{ .Lastmod.Format "2. January 2006" }}</small>
     <div>  {{ .Content }}</div>
     {{ $paginator := .Paginate (where (where .Pages "Type" "post") "Params.hidden" "!=" true) 10 }}
     {{ range (.Paginator 10).Pages }}
