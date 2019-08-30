@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://skibohemen.github.io/nap-help/write/dcat/</loc>
+    <lastmod>2019-08-30T07:28:10+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://skibohemen.github.io/nap-help/write/add-data/</loc>
     <lastmod>2019-08-30T07:28:10+02:00</lastmod>
   </url>

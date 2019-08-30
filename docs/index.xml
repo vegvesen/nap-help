@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Dcat</title>
+      <link>https://skibohemen.github.io/nap-help/write/dcat/</link>
+      <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
+      
+      <guid>https://skibohemen.github.io/nap-help/write/dcat/</guid>
+      <description>Metadata legges inn på NAP ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
+    </item>
+    
+    <item>
       <title>Legge inn data i NAP</title>
       <link>https://skibohemen.github.io/nap-help/write/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
