@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/dcat/</loc>
-    <lastmod>2019-08-26T08:04:48+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://skibohemen.github.io/nap-help/write/add-data/</loc>
-    <lastmod>2019-08-26T08:04:48+02:00</lastmod>
+    <lastmod>2019-08-30T07:28:10+02:00</lastmod>
   </url>
   
   <url>
@@ -19,13 +14,18 @@
   
   <url>
     <loc>https://skibohemen.github.io/nap-help/gen/</loc>
-    <lastmod>2019-08-29T18:35:32+02:00</lastmod>
+    <lastmod>2019-08-29T19:06:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://skibohemen.github.io/nap-help/about/</loc>
-    <lastmod>2019-08-29T18:35:32+02:00</lastmod>
+    <lastmod>2019-08-29T19:06:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/</loc>
+    <lastmod>2019-08-30T07:28:10+02:00</lastmod>
   </url>
   
   <url>
@@ -36,11 +36,6 @@
   <url>
     <loc>https://skibohemen.github.io/nap-help/write/</loc>
     <lastmod>2019-08-26T08:04:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/</loc>
-    <lastmod>2019-08-19T13:04:15+02:00</lastmod>
   </url>
   
 </urlset>
