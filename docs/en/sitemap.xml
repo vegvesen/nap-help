@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/write/dcat/</loc>
+    <loc>https://skibohemen.github.io/nap-help/en/write/dcat/</loc>
     <lastmod>2019-08-30T10:08:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/write/add-data/</loc>
+    <loc>https://skibohemen.github.io/nap-help/en/write/add-data/</loc>
     <lastmod>2019-08-30T07:28:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/read/what/</loc>
+    <loc>https://skibohemen.github.io/nap-help/en/read/what/</loc>
     <lastmod>2019-08-26T08:04:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/gen/</loc>
+    <loc>https://skibohemen.github.io/nap-help/en/gen/</loc>
     <lastmod>2019-09-03T22:08:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/about/</loc>
+    <loc>https://skibohemen.github.io/nap-help/en/about/</loc>
     <lastmod>2019-09-03T22:08:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/</loc>
+    <loc>https://skibohemen.github.io/nap-help/en/</loc>
     <lastmod>2019-08-30T07:28:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -39,17 +39,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://skibohemen.github.io/nap-help/"
+                href="https://skibohemen.github.io/nap-help/en/"
                 />
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/read/</loc>
+    <loc>https://skibohemen.github.io/nap-help/en/read/</loc>
     <lastmod>2019-08-26T08:04:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/write/</loc>
+    <loc>https://skibohemen.github.io/nap-help/en/write/</loc>
     <lastmod>2019-08-26T08:04:48+02:00</lastmod>
   </url>
   
