@@ -15,11 +15,11 @@ imggroup = "sorfold"
   [languages.en]
     languageName = "English"
     title = "Norwegian National Access Point"
-    weight = 2
+    weight = 1
   [languages.no]
     languageName = "Norsk"
     title = "Nasjonalt tilgangspunkt for transport- og trafikkdata"
-    weight = 1
+    weight = 2
 
 [params]
   datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
