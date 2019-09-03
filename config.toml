@@ -3,13 +3,23 @@ relativeURLs = "true"
 languageCode = "no"
 languageName = "Norsk"
 buildDrafts = true
-title = "Nasjonalt tilgangspunkt for transport- og trafikkdata"
+
 enableEmoji = "true"
 enableGitInfo = "true"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "silhouette-hugo"
 publishDir = "docs"
 imggroup = "sorfold"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Norwegian National Access Point"
+    weight = 2
+  [languages.no]
+    languageName = "Norsk"
+    title = "Nasjonalt tilgangspunkt for transport- og trafikkdata"
+    weight = 1
 
 [params]
   datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
