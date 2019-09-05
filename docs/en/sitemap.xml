@@ -3,54 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/en/write/dcat/</loc>
-    <lastmod>2019-08-30T10:08:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/en/write/add-data/</loc>
-    <lastmod>2019-08-30T07:28:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/en/read/what/</loc>
-    <lastmod>2019-08-26T08:04:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/en/gen/</loc>
-    <lastmod>2019-08-15T10:21:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://skibohemen.github.io/nap-help/no/gen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://skibohemen.github.io/nap-help/en/gen/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/en/about/</loc>
-    <lastmod>2019-08-15T10:21:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://skibohemen.github.io/nap-help/no/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://skibohemen.github.io/nap-help/en/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://skibohemen.github.io/nap-help/en/</loc>
-    <lastmod>2019-08-30T07:28:10+02:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -61,16 +15,6 @@
                 hreflang="en"
                 href="https://skibohemen.github.io/nap-help/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/en/read/</loc>
-    <lastmod>2019-08-26T08:04:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/en/write/</loc>
-    <lastmod>2019-08-26T08:04:48+02:00</lastmod>
   </url>
   
 </urlset>

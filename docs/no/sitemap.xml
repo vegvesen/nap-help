@@ -3,40 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/no/gen/</loc>
-    <lastmod>2019-08-15T10:21:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://skibohemen.github.io/nap-help/en/gen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://skibohemen.github.io/nap-help/no/gen/"
-                />
+    <loc>https://skibohemen.github.io/nap-help/no/en/write/</loc>
+    <lastmod>2019-08-30T10:05:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/no/about/</loc>
+    <loc>https://skibohemen.github.io/nap-help/no/no/write/</loc>
+    <lastmod>2019-08-30T10:05:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/en/write/dcat/</loc>
+    <lastmod>2019-08-30T10:05:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/no/write/dcat/</loc>
+    <lastmod>2019-08-30T10:05:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/en/write/add-data/</loc>
+    <lastmod>2019-08-20T06:49:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/no/write/add-data/</loc>
+    <lastmod>2019-08-20T06:49:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/en/read/</loc>
+    <lastmod>2019-08-18T12:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/no/read/</loc>
+    <lastmod>2019-08-18T12:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/no/read/what/</loc>
+    <lastmod>2019-08-18T12:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/en/read/what/</loc>
+    <lastmod>2019-08-18T12:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/en/</loc>
     <lastmod>2019-08-15T10:21:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://skibohemen.github.io/nap-help/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://skibohemen.github.io/nap-help/no/about/"
-                />
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/about/</loc>
+    <lastmod>2019-08-15T10:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/about/</loc>
+    <lastmod>2019-08-15T10:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/no/</loc>
+    <lastmod>2019-08-15T10:21:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://skibohemen.github.io/nap-help/no/</loc>
-    <lastmod>2019-08-15T10:21:00+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-30T07:28:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

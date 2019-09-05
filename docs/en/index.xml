@@ -1,55 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NAP on Norwegian National Access Point</title>
+    <title>Norwegian National Access Point</title>
     <link>https://skibohemen.github.io/nap-help/en/</link>
-    <description>Recent content in NAP on Norwegian National Access Point</description>
+    <description>Recent content on Norwegian National Access Point</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 Jul 2019 06:49:25 +0200</lastBuildDate>
+    <language>no</language>
     
 	<atom:link href="https://skibohemen.github.io/nap-help/en/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Dcat</title>
-      <link>https://skibohemen.github.io/nap-help/en/write/dcat/</link>
-      <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/en/write/dcat/</guid>
-      <description>Metadata legges inn på NAP ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
-    </item>
-    
-    <item>
-      <title>Legge inn data i NAP</title>
-      <link>https://skibohemen.github.io/nap-help/en/write/add-data/</link>
-      <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/en/write/add-data/</guid>
-      <description>NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
- via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
-    </item>
-    
-    <item>
-      <title>Innhold av NAP</title>
-      <link>https://skibohemen.github.io/nap-help/en/read/what/</link>
-      <pubDate>Sun, 18 Aug 2019 12:23:00 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/en/read/what/</guid>
-      <description>Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
-Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
-Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.</description>
-    </item>
-    
-    <item>
-      <title>Information about NAP</title>
-      <link>https://skibohemen.github.io/nap-help/en/about/</link>
-      <pubDate>Thu, 15 Aug 2019 10:21:00 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/en/about/</guid>
-      <description>This page is suspposed to be in English.
-Denne portalen inneholder pekere til datasett og tjenester som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
-Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven.</description>
-    </item>
     
   </channel>
 </rss>
