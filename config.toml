@@ -1,4 +1,4 @@
-baseURL = "https://skibohemen.github.io/nap-help/"
+baseURL = "https://skibohemen.github.io/nap-help"
 relativeURLs = "true"
 languageCode = "no"
 defaultContentLanguage = "no"
@@ -15,9 +15,11 @@ imggroup = "sorfold"
   [languages.en]
     languageName = "English"
     title = "Norwegian National Access Point"
+    contentDir = "content/en"
     weight = 1
   [languages.no]
     languageName = "Norsk"
+    contentDir = "content/no"
     title = "Nasjonalt tilgangspunkt for transport- og trafikkdata"
     weight = 2
 

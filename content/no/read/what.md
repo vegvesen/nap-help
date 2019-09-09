@@ -1,6 +1,6 @@
 ---
 title: "Innhold av NAP"
-date: 2019-08-18T12:23:00+02:00
+date: 2019-09-04T12:23:00+02:00
 ---
 
 Portalen inneholder kun *metadata* om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.

@@ -6,72 +6,39 @@
     <description>Recent content in NAP on Nasjonalt tilgangspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Jul 2019 06:49:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2019 12:23:00 +0200</lastBuildDate>
     
 	<atom:link href="https://skibohemen.github.io/nap-help/no/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>DCAT</title>
-      <link>https://skibohemen.github.io/nap-help/no/en/write/dcat/</link>
-      <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/no/en/write/dcat/</guid>
-      <description>Engelsk
-Metadata legges inn på NAP ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
-    </item>
-    
-    <item>
-      <title>DCAT</title>
-      <link>https://skibohemen.github.io/nap-help/no/no/write/dcat/</link>
-      <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/no/no/write/dcat/</guid>
-      <description>Metadata legges inn på NAP ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
-    </item>
-    
-    <item>
-      <title>Add data to NAP</title>
-      <link>https://skibohemen.github.io/nap-help/no/en/write/add-data/</link>
-      <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/no/en/write/add-data/</guid>
-      <description>Engelsk
-NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
- via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
-    </item>
-    
-    <item>
-      <title>Legge inn data i NAP</title>
-      <link>https://skibohemen.github.io/nap-help/no/no/write/add-data/</link>
-      <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/no/no/write/add-data/</guid>
-      <description>NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
- via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
-    </item>
-    
-    <item>
       <title>Innhold av NAP</title>
-      <link>https://skibohemen.github.io/nap-help/no/no/read/what/</link>
-      <pubDate>Sun, 18 Aug 2019 12:23:00 +0200</pubDate>
+      <link>https://skibohemen.github.io/nap-help/no/read/what/</link>
+      <pubDate>Wed, 04 Sep 2019 12:23:00 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/no/read/what/</guid>
+      <guid>https://skibohemen.github.io/nap-help/no/read/what/</guid>
       <description>Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
 Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
 Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.</description>
     </item>
     
     <item>
-      <title>NAP content</title>
-      <link>https://skibohemen.github.io/nap-help/no/en/read/what/</link>
-      <pubDate>Sun, 18 Aug 2019 12:23:00 +0200</pubDate>
+      <title>DCAT</title>
+      <link>https://skibohemen.github.io/nap-help/no/write/dcat/</link>
+      <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/en/read/what/</guid>
-      <description>Engelsk
-Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
-Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
-Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.</description>
+      <guid>https://skibohemen.github.io/nap-help/no/write/dcat/</guid>
+      <description>Metadata legges inn på NAP ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
+    </item>
+    
+    <item>
+      <title>Legge inn data i NAP</title>
+      <link>https://skibohemen.github.io/nap-help/no/write/add-data/</link>
+      <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
+      
+      <guid>https://skibohemen.github.io/nap-help/no/write/add-data/</guid>
+      <description>NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
+ via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
     </item>
     
     <item>
@@ -82,17 +49,6 @@ Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med Gene
       <guid>https://skibohemen.github.io/nap-help/about/</guid>
       <description>Denne portalen inneholder pekere til datasett og tjenester som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
 Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven. Alle land innenfor EU/EØS skal opprette et slikt tilgangspunkt for å støtte utvikling av sammenhengende informasjonstjenester i Europa.</description>
-    </item>
-    
-    <item>
-      <title>Information about NAP</title>
-      <link>https://skibohemen.github.io/nap-help/about/</link>
-      <pubDate>Thu, 15 Aug 2019 10:21:00 +0200</pubDate>
-      
-      <guid>https://skibohemen.github.io/nap-help/about/</guid>
-      <description>This page is suspposed to be in English.
-Denne portalen inneholder pekere til datasett og tjenester som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
-Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven.</description>
     </item>
     
   </channel>
