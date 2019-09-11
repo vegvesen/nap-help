@@ -9,3 +9,6 @@
 
 - id: en_name
   translation: "English"
+
+- id: readCategoryText
+  translation: "Find and use data"
