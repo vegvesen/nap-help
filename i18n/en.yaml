@@ -1,0 +1,11 @@
+- id: aboutNAP
+  translation: "About NAP"
+
+- id: languages
+  translation: "Language"
+
+- id: no_name
+  translation: "Norwegian"
+
+- id: en_name
+  translation: "English"

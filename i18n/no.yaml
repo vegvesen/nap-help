@@ -1,0 +1,11 @@
+- id: aboutNAP
+  translation: "Om transportpotalen.no"
+
+- id: languages
+  translation: "Språk"
+
+- id: no_name
+  translation: "Norsk"
+
+- id: en_name
+  translation: "Engelsk"

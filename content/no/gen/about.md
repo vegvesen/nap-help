@@ -2,7 +2,7 @@
 title: "Informasjon om portalen"
 date: 2019-08-15T10:21:00+02:00
 draft: false
-url: /about/
+alias: "/about/"
 ---
 Denne portalen inneholder pekere til datasett og tjenester som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
 

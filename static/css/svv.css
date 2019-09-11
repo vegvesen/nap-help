@@ -1,3 +1,4 @@
+/* SVV overrides */
 .img-copyright {
   color: white;
   font-size: 10px;
@@ -8,4 +9,23 @@
 
 .svv-position {
   position: relative;
+}
+
+footer {
+    background-color: #444f55;
+    color: #fff3e4;
+    font-size: .8rem;
+    padding: 30px;
+}
+
+footer h5, footer a {
+    color: #ff9600!important;
+}
+
+.dropdown-menu, .dropdown-item {
+    background-color: #444f55;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: #ed9300;
 }

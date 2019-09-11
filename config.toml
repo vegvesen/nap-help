@@ -1,4 +1,4 @@
-baseURL = "https://skibohemen.github.io/nap-help"
+baseURL = "https://skibohemen.github.io/nap-help/"
 relativeURLs = "true"
 languageCode = "no"
 defaultContentLanguage = "no"
@@ -6,6 +6,7 @@ defaultContentLanguageInSubdir = true
 buildDrafts = true
 enableEmoji = "true"
 enableGitInfo = "true"
+EnableMissingTranslationPlaceholders = "true"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "silhouette-hugo"
 publishDir = "docs"
@@ -15,9 +16,6 @@ imggroup = "sorfold"
   [languages.no]
    datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
    datacatText = "Datakatalog"
-   languageName = "Norsk"
-   aboutText = "Om NAP"
-   langText = "Språk"
    contentDir = "content/no"
    title = "Nasjonalt tilgangspunkt for transport- og trafikkdata"
    weight = 1
@@ -25,10 +23,7 @@ imggroup = "sorfold"
   [languages.en]
     datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN&lang=en"
     datacatText = "Data Sets"
-    languageName = "English"
     title = "Norwegian National Access Point"
-    aboutText = "About NAP"
-    langText = "Languages"
     contentDir = "content/en"
     weight = 2
 
