@@ -2,7 +2,7 @@
     <a target="ext" class="nav-link active" href="{{ $.Site.Params.datacat | absLangURL }}">{{ $.Site.Params.datacatText }}</a>
 </li>
 <li class="nav-item">
-    <a class="nav-link active" href="{{ .Site.BaseURL  | absLangURL }}gen/about/">{{ T "aboutNAP" }}</a>
+    <a class="nav-link active" href="{{ "gen/about/" | absLangURL }}">{{ T "aboutNAP" }}</a>
 </li>
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="naplangs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ T "languages" }}</a>
