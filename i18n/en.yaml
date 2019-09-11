@@ -1,14 +1,12 @@
 - id: aboutNAP
   translation: "About NAP"
-
 - id: languages
   translation: "Language"
-
 - id: no_name
   translation: "Norwegian"
-
 - id: en_name
   translation: "English"
-
 - id: readCategoryText
   translation: "Find and use data"
+- id: addCategoryText
+  translation: "Add datasets"

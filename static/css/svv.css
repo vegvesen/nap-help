@@ -29,3 +29,7 @@ footer h5, footer a {
 .dropdown-item:focus, .dropdown-item:hover {
     background-color: #ed9300;
 }
+
+.sidebar {
+  flex: 0 0 25rem;
+}

@@ -1,4 +1,4 @@
-<div class="sidebar d-print-none d-none d-xl-block">
+<div class="sidebar d-print-none d-block d-xl-block">
     {{ if .IsHome }}
   <!--  <h2>Top Posts</h2> -->
     {{ else }}
@@ -12,13 +12,13 @@
     {{ range .Site.Taxonomies.tags.featured  }}
         <a href="{{ .Permalink }}" class="nav-link">{{ .Title }}</a>
     {{ end }}
-    <h3 class="mt-4">Søke og bla i datasett</h3>
+    <h3 class="mt-4">{{ T "readCategoryText" }}</h3>
     <nav class="nav flex-column">
         {{ range first 8 (where (where .Site.Pages "Section" "read") ".Params.hidden" "!=" true) }}
         <a href="{{ .Permalink }}" class="nav-link">{{ .Title }}</a>
         {{ end }}
     </nav>
-    <h3 class="mt-4">Legge inn datasett</h3>
+    <h3 class="mt-4">{{ T "addCategoryText" }}</h3>
     <nav class="nav flex-column">
         {{ range first 8 (where (where .Site.Pages "Section" "write") ".Params.hidden" "!=" true) }}
         <a href="{{ .Permalink }}" class="nav-link">{{ .Title }}</a>

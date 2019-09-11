@@ -1,11 +1,12 @@
 - id: aboutNAP
   translation: "Om transportpotalen.no"
-
 - id: languages
   translation: "Språk"
-
 - id: no_name
   translation: "Norsk"
-
 - id: en_name
   translation: "Engelsk"
+- id: readCategoryText
+  translation: "Finne og lese data"
+- id: addCategoryText
+  translation: "Legge inn data"
