@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gens on Nasjonalt tilgangspunkt for transport- og trafikkdata</title>
+    <title>Nasjonalt tilgangspunkt for transport- og trafikkdata</title>
     <link>https://skibohemen.github.io/nap-help/no/gen/</link>
-    <description>Recent content in Gens on Nasjonalt tilgangspunkt for transport- og trafikkdata</description>
+    <description>Recent content on Nasjonalt tilgangspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 15 Aug 2019 10:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 11:54:59 +0200</lastBuildDate>
     
 	<atom:link href="https://skibohemen.github.io/nap-help/no/gen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Informasjon om portalen</title>
+      <title>Roller og ansvar</title>
+      <link>https://skibohemen.github.io/nap-help/no/gen/roles/</link>
+      <pubDate>Thu, 19 Sep 2019 11:54:59 +0200</pubDate>
+      
+      <guid>https://skibohemen.github.io/nap-help/no/gen/roles/</guid>
+      <description>Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av transportportal.no og har ansvar for utvikling, bruk og forvalting av løsningen. Statens vegvesen har og en supporttjeneste for bruken av portalen. Tilbakemeldinger på brukervennlighet, feil, forbedringer rettes til Statens vegvesen gjennom epostadressen portalsupport@vegvesen.no ( må bestille en gruppepostboks)
+Vegtilsynet Vegtilsynet har oppgaven som nasjonal tilsynsmyndighet for ITS direktivets forordninger b og c.. Det er vegtilsynet som foretar stikkprøvekontroller av alle dataleverandører og tjenestetilbydere for forordningene b og c, og påser at de følger forordningens regler for dokumentasjon og kvalitet.</description>
+    </item>
+    
+    <item>
+      <title>Informasjon om NAP</title>
       <link>https://skibohemen.github.io/nap-help/no/gen/about/</link>
       <pubDate>Thu, 15 Aug 2019 10:21:00 +0200</pubDate>
       

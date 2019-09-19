@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://skibohemen.github.io/nap-help/en/gen/</loc>
+    <lastmod>2019-09-19T11:54:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://skibohemen.github.io/nap-help/no/gen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://skibohemen.github.io/nap-help/en/gen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/en/gen/roles/</loc>
+    <lastmod>2019-09-19T11:54:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://skibohemen.github.io/nap-help/no/gen/roles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://skibohemen.github.io/nap-help/en/gen/roles/"
+                />
+  </url>
+  
+  <url>
     <loc>https://skibohemen.github.io/nap-help/en/read/data/</loc>
     <lastmod>2019-09-11T12:23:40+02:00</lastmod>
     <xhtml:link
@@ -59,22 +89,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://skibohemen.github.io/nap-help/en/read/what/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/en/gen/</loc>
-    <lastmod>2019-09-11T06:21:33+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://skibohemen.github.io/nap-help/no/gen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://skibohemen.github.io/nap-help/en/gen/"
                 />
   </url>
   

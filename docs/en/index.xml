@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Roles</title>
+      <link>https://skibohemen.github.io/nap-help/en/gen/roles/</link>
+      <pubDate>Thu, 19 Sep 2019 11:54:59 +0200</pubDate>
+      
+      <guid>https://skibohemen.github.io/nap-help/en/gen/roles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data in NAP</title>
       <link>https://skibohemen.github.io/nap-help/en/read/data/</link>
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
@@ -62,7 +71,7 @@ Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med Gene
       <pubDate>Thu, 15 Aug 2019 10:21:00 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/en/gen/about/</guid>
-      <description>This page is suspposed to be in English.
+      <description>This page is supposed to be in English.
 Denne portalen inneholder pekere til datasett og tjenester som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
 Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven.</description>
     </item>
