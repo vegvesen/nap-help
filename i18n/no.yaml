@@ -1,5 +1,9 @@
+- id: photographer
+  translation: "Foto"
+- id: SVV
+  translation: "Statens vegvesen"
 - id: aboutNAP
-  translation: "Om transportpotalen.no"
+  translation: "Om transportportal.no"
 - id: languages
   translation: "Språk"
 - id: no_name
@@ -10,3 +14,18 @@
   translation: "Finne og lese data"
 - id: addCategoryText
   translation: "Legge inn data"
+# Kontaktinfo i bunn av hver side
+- id: contactText
+  translation: "Kontakt"
+- id: contactDescr
+  translation: "Alle spørsmål knyttet til denne portalen kan rettes
+   til"
+  # Right to use info, NLOD etc
+- id: nlod_URL
+  translation: "https://data.norge.no/nlod/no/2.0"
+- id: NLOD
+  translation: "Norsk lisens for offentlige data (NLOD)"
+- id: rightToUseText
+  translation: "Bruk av data"
+- id: rightToUseDescr
+  translation: "Alle datasett i portalen er åpne, hvis ikke begrensninger er angitt for hvert datasett. Bruken er regulert av "

@@ -32,5 +32,5 @@ imggroup = "sorfold"
   author = "Statens vegvesen"
   introDescription = "Intro"
   [params.img]
-     imgauthor = "E6 Frya - Sjoa,  Knut Opeide, Statens vegvesen"
+     imgauthor = "E6 Frya - Sjoa,  Knut Opeide"
      background_image = "images/E6Sjoa.jpg"
