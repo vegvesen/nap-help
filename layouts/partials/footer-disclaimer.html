@@ -1,0 +1,3 @@
+<h5>{{ T "contactText" }}</h5>
+{{ T "contactDescr" }}
+{{ printf "<a href='mailto:%s'>" $.Site.Params.contactEmail | safeHTML }}{{ $.Site.Params.contactEmail }}</a>.
