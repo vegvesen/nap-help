@@ -6,11 +6,11 @@
   bottom: 8px;
   right: 16px;
 }
-
+/* Posisjonering av bildetekst */
 .svv-position {
   position: relative;
 }
-
+/* Fargesettinger */
 footer {
     background-color: #444f55;
     color: #fff3e4;
@@ -30,6 +30,15 @@ footer h5, footer a {
     background-color: #ed9300;
 }
 
+/* Endret breakpoint */
 .sidebar {
   flex: 0 0 25rem;
+}
+/* Fontstørrelser, innrykk mm på sidebar innhold */
+h3.mt-4 {
+  font-size: 120%!important;
+}
+
+.nav-link {
+  padding: 0em 0em 0em 1em;
 }

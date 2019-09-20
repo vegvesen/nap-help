@@ -1,13 +1,15 @@
 {{ define "head" }}
+  {{ "<!-- here er HEAD start -->" | safeHTML }}
+  <meta name="author" content="{{.Site.Params.Author}}, {{.Site.Params.contactEmail}}" />
 {{ end }}
 {{ define "title" }}
   {{ .Title }} | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
+  {{ "<!-- here er MAIN start -->" | safeHTML }}
 <article class="container mt-4 post">
-    <h1>{{ .Title }}</h1>
-
-    {{ .Content }}
+  <h1>{{ .Title }}</h1>
+{{ .Content }}
 </article>
 {{ partial "sidebar" . }}
 {{ end }}

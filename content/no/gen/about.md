@@ -1,5 +1,5 @@
 ---
-title: "Informasjon om portalen"
+title: "Informasjon om NAP"
 date: 2019-08-15T10:21:00+02:00
 draft: false
 alias: "/about/"

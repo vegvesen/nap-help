@@ -10,10 +10,16 @@
   translation: "Norsk"
 - id: en_name
   translation: "Engelsk"
+# Overskrift til kategoriene med hjelpefiler
+# Til lesere av datasett
 - id: readCategoryText
   translation: "Finne og lese data"
+# Til dataeiere
 - id: addCategoryText
   translation: "Legge inn data"
+# Generelle hjelpefiler
+- id: genCategoryText
+  translation: "Generell informasjon"
 # Kontaktinfo i bunn av hver side
 - id: contactText
   translation: "Kontakt"
