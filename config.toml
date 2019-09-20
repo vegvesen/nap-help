@@ -31,6 +31,7 @@ imggroup = "sorfold"
 [params]
   author = "Statens vegvesen"
   introDescription = "Intro"
+  contactEmail = "transportportal@vegvesen.no"
   [params.img]
-     imgauthor = "E6 Frya - Sjoa,  Knut Opeide"
-     background_image = "images/E6Sjoa.jpg"
+     imgauthor = "E39 Svegatjørn-Rådal,  Knut Opeide"
+     background_image = "images/E39.jpg"
