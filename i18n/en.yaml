@@ -13,10 +13,10 @@
 # Overskrift til kategoriene med hjelpefiler
 # Til brukere av datasett
 - id: readCategoryText
-  translation: "Find and use data"
+  translation: "For developers"
 # Til dataeiere
 - id: addCategoryText
-  translation: "Add datasets"
+  translation: "For providers"
 # Generelle hjelpefiler
 - id: genCategoryText
   translation: "General information"

@@ -3,28 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/no/gen/</loc>
-    <lastmod>2019-09-20T10:34:05+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://skibohemen.github.io/nap-help/en/gen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://skibohemen.github.io/nap-help/no/gen/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://skibohemen.github.io/nap-help/its/</loc>
-    <lastmod>2019-09-20T10:34:05+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://skibohemen.github.io/nap-help/no/gen/roles/</loc>
-    <lastmod>2019-09-19T11:54:59+02:00</lastmod>
+    <lastmod>2019-09-20T19:50:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,6 +14,36 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://skibohemen.github.io/nap-help/no/gen/roles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/gen/its/</loc>
+    <lastmod>2019-09-20T19:50:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://skibohemen.github.io/nap-help/en/gen/its/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://skibohemen.github.io/nap-help/no/gen/its/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://skibohemen.github.io/nap-help/no/gen/about/</loc>
+    <lastmod>2019-09-20T19:50:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://skibohemen.github.io/nap-help/en/gen/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://skibohemen.github.io/nap-help/no/gen/about/"
                 />
   </url>
   
@@ -98,17 +108,17 @@
   </url>
   
   <url>
-    <loc>https://skibohemen.github.io/nap-help/no/gen/about/</loc>
-    <lastmod>2019-09-11T06:21:33+02:00</lastmod>
+    <loc>https://skibohemen.github.io/nap-help/no/gen/</loc>
+    <lastmod>2019-09-20T19:50:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://skibohemen.github.io/nap-help/en/gen/about/"
+                href="https://skibohemen.github.io/nap-help/en/gen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://skibohemen.github.io/nap-help/no/gen/about/"
+                href="https://skibohemen.github.io/nap-help/no/gen/"
                 />
   </url>
   
