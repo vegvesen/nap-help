@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>Samsvarserklæring</title>
+      <link>https://skibohemen.github.io/nap-help/no/write/conform/</link>
+      <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
+      
+      <guid>https://skibohemen.github.io/nap-help/no/write/conform/</guid>
+      <description>Alle dataeiere og tjenestetilbydere som legger ut data på portalen eller bruker data, f.eks. i apper, må følge EU-forordningenes krav med hensyn til samsvarserklæringen. I dette ligger det at tjenestetilbydere eller dataeieren må fylle ut et skjema som sendes til Vegtilsynet for forordning 962&amp;frasl;2015 og 886&amp;frasl;2013 eller til Jernbanedirektoratet for forordning 1926&amp;frasl;2017.
+Unnlatelse av å levere samsvarserklæringer eller unnlate å følge forordningens retningslinjer kan medføre reaksjoner.
+Last ned skjema for Samsvarserklæring: https://www.</description>
+    </item>
+    
+    <item>
       <title>DCAT</title>
       <link>https://skibohemen.github.io/nap-help/no/write/dcat/</link>
       <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
@@ -20,7 +31,7 @@
     </item>
     
     <item>
-      <title>Legge inn data i NAP</title>
+      <title>Legge inn data</title>
       <link>https://skibohemen.github.io/nap-help/no/write/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
       

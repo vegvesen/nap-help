@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>Samsvarserklæring</title>
+      <link>https://skibohemen.github.io/nap-help/no/write/conform/</link>
+      <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
+      
+      <guid>https://skibohemen.github.io/nap-help/no/write/conform/</guid>
+      <description>Alle dataeiere og tjenestetilbydere som legger ut data på portalen eller bruker data, f.eks. i apper, må følge EU-forordningenes krav med hensyn til samsvarserklæringen. I dette ligger det at tjenestetilbydere eller dataeieren må fylle ut et skjema som sendes til Vegtilsynet for forordning 962&amp;frasl;2015 og 886&amp;frasl;2013 eller til Jernbanedirektoratet for forordning 1926&amp;frasl;2017.
+Unnlatelse av å levere samsvarserklæringer eller unnlate å følge forordningens retningslinjer kan medføre reaksjoner.
+Last ned skjema for Samsvarserklæring: https://www.</description>
+    </item>
+    
+    <item>
       <title>Roller og ansvar</title>
       <link>https://skibohemen.github.io/nap-help/no/gen/roles/</link>
       <pubDate>Fri, 20 Sep 2019 11:54:59 +0200</pubDate>
@@ -26,8 +37,8 @@ Vegtilsynet Vegtilsynet har oppgaven som nasjonal tilsynsmyndighet for ITS direk
       <pubDate>Fri, 20 Sep 2019 10:34:05 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/no/gen/its/</guid>
-      <description>Det er et gammelt såkalt «rådsdirektiv» (2010/40/EU) innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å etablere et nasjonalt tilgangspunkt samt å sørge for at trafikk- og transportrelaterte data og tjenester gjøres tilgjengelig gjennom tilgangspunktet. Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:
- Forordning 885 / 2013 - oversikt over p-plasser for langtransport Forordning 886 / 2013 - tilgjengeliggjøring av sikkerhetsrelatert informasjon Forordning 962 / 2015 - tilgjengeliggjøring av sanntids informasjon Forordning 1926 / 2017 - multimodale reiseinformasjonstjenester  </description>
+      <description>Det er et gammelt såkalt «rådsdirektiv» (2010/40/EU) innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å etablere et nasjonalt tilgangspunkt samt å sørge for at trafikk- og transportrelaterte data og tjenester gjøres tilgjengelig gjennom tilgangspunktet. Formålet er å oppnå sammenhengende og interoperable ITS-tjenester i Europa innenfor vegtransport, og i grenseflatene mot andre transportformer.
+Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:</description>
     </item>
     
     <item>
@@ -36,8 +47,9 @@ Vegtilsynet Vegtilsynet har oppgaven som nasjonal tilsynsmyndighet for ITS direk
       <pubDate>Sun, 15 Sep 2019 10:21:00 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/no/gen/about/</guid>
-      <description>Denne portalen inneholder pekere til datasett og tjenester som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
-Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EU-parlamentets direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven. Alle land innenfor EU/EØS skal opprette et slikt tilgangspunkt for å støtte utvikling av sammenhengende informasjonstjenester i Europa.</description>
+      <description>Denne portalen inneholder linker til datasett og tjenester knyttet til transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, billetter og rutetider, reiseplaner, vær og føreforhold på vegene.
+Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EU-parlamentets direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger.
+Både offentlige og private virksomheter er forventet å bidra med datasett til portalen, og dette vil kunne være virksomheter som er vegeiere, opererer transport- og mobilitetstjenester såvel som formidlere av trafikkinformasjon.</description>
     </item>
     
     <item>
@@ -72,7 +84,7 @@ Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med Gene
     </item>
     
     <item>
-      <title>Legge inn data i NAP</title>
+      <title>Legge inn data</title>
       <link>https://skibohemen.github.io/nap-help/no/write/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
       

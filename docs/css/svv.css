@@ -42,3 +42,8 @@ h3.mt-4 {
 .nav-link {
   padding: 0em 0em 0em 1em;
 }
+
+figure.naplogo {
+  float: left!important;
+  padding: 0.5em;
+}

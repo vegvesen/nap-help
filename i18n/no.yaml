@@ -26,7 +26,7 @@
 - id: contactDescr
   translation: "Alle spørsmål knyttet til denne portalen kan rettes
    til"
-  # Right to use info, NLOD etc
+# Right to use info, NLOD etc
 - id: nlod_URL
   translation: "https://data.norge.no/nlod/no/2.0"
 - id: NLOD
@@ -35,3 +35,6 @@
   translation: "Bruk av data"
 - id: rightToUseDescr
   translation: "Alle datasett i portalen er åpne, hvis ikke begrensninger er angitt for hvert datasett. Bruken er regulert av "
+# Declaration of compliance
+- id: complDeclaration
+  translation: "Samsvarserklæring"

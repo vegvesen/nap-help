@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Roles and responsibility</title>
+      <title>Roles and Responsibility</title>
       <link>https://skibohemen.github.io/nap-help/en/gen/roles/</link>
       <pubDate>Fri, 20 Sep 2019 11:54:59 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/en/gen/roles/</guid>
-      <description>Text shall be translated to English.
+      <description>This text will be translated.
 Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvalting av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon i bunn av hver hjelpeside.
 Vegtilsynet Vegtilsynet har oppgaven som nasjonal tilsynsmyndighet for ITS direktivets forordninger b og c. Det er vegtilsynet som foretar stikkprøvekontroller av alle dataleverandører og tjenestetilbydere for forordningene b og c, og påser at de følger forordningens regler for dokumentasjon og kvalitet.</description>
     </item>
@@ -85,8 +85,9 @@ Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med Gene
       
       <guid>https://skibohemen.github.io/nap-help/en/gen/about/</guid>
       <description>This page is supposed to be in English.
-Denne portalen inneholder pekere til datasett og tjenester som dreier seg om transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, kollektivruter, reiseplaner, vær og føreforhold på vegene.
-Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EUs direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger. Disse er inntatt i den norske ITS-loven.</description>
+Denne portalen inneholder linker til datasett og tjenester knyttet til transport, trafikk og vegnettet i Norge. Eksempler kan være informasjon om vegnett, vegobjekter, stengninger, hendelser, trafikkmengde, reisetider, billetter og rutetider, reiseplaner, vær og føreforhold på vegene.
+Portalen er et nasjonalt tilgangspunkt for trafikk og transportdata i henhold til EU-parlamentets direktiv 2010/40/EU – ITS-direktivet med underliggende forordninger.
+Både offentlige og private virksomheter er forventet å bidra med datasett til portalen, og dette vil kunne være virksomheter som er vegeiere, opererer transport- og mobilitetstjenester såvel som formidlere av trafikkinformasjon.</description>
     </item>
     
   </channel>

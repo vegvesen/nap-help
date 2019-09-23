@@ -10,7 +10,7 @@
   translation: "Norwegian"
 - id: en_name
   translation: "English"
-# Overskrift til kategoriene med hjelpefiler
+# Overskrift til de tre kategoriene med hjelpefiler
 # Til brukere av datasett
 - id: readCategoryText
   translation: "For developers"
@@ -25,7 +25,7 @@
   translation: "Contact"
 - id: contactDescr
   translation: "All questions regarding this portal can be addressed to"
-  # Right to use info, NLOD etc
+  # Right to use info, NLOD etc - English version
 - id: nlod_URL
   translation: "https://data.norge.no/nlod/en/2.0"
 - id: NLOD
@@ -34,3 +34,6 @@
   translation: "Right to use"
 - id: rightToUseDescr
   translation: "All data in NAP are open and free to use, unless otherwise stated. The use is regulated by "
+# Declaration of compliance
+- id: complDeclaration
+  translation: "Declaration of Compliance"
