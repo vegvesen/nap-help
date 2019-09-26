@@ -1,9 +1,11 @@
+- id: portalName
+  translation: "transportportal.no"
 - id: photographer
   translation: "Foto"
 - id: SVV
   translation: "Statens vegvesen"
 - id: aboutNAP
-  translation: "Om transportportal.no"
+  translation: "Om portalen"
 - id: languages
   translation: "Språk"
 - id: no_name

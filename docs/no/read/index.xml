@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nasjonalt tilgangspunkt for transport- og trafikkdata</title>
+    <title>Norsk tilgangspunkt for transport- og trafikkdata</title>
     <link>https://skibohemen.github.io/nap-help/no/read/</link>
-    <description>Recent content on Nasjonalt tilgangspunkt for transport- og trafikkdata</description>
+    <description>Recent content on Norsk tilgangspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
@@ -18,7 +18,7 @@
       <guid>https://skibohemen.github.io/nap-help/no/read/data/</guid>
       <description>Transportportal.no beskriver hovedsakelig datatyper som er spesifisert i ITS-direktivets forordninger. Hvilke datatyper som hører til er beskrevet i lenkene under. Det kan komme utvidelser av disse kravene etter hvert. Statens vegvesen kan kontaktes for å vurdere om et datasett hører til under transportportal.no eller ikke.
 Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data og til et nasjonalt tilgangspunkt med metadata.
-«Sikkerhetsrelatert trafikkinformasjon» (Forordning 886&amp;frasl;2013), Dette er data som informerer om potensielle farer, f.</description>
+«Sikkerhetsrelatert trafikkinformasjon» (Forordning 886/2013), Dette er data som informerer om potensielle farer, f.</description>
     </item>
     
     <item>

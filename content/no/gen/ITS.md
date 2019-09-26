@@ -9,7 +9,7 @@ Det er et gammelt såkalt «rådsdirektiv» (2010/40/EU) innenfor EU-parlamentet
 
 Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:
 
-- Forordning [885 / 2013] (https://europalov.no/rettsakt/intelligente-transportsystemer-krav-til-informasjon-om-parkeringsplasser-for-laste-og-varebiler/id-6360) - oversikt over p-plasser for langtransport
-- Forordning [886 / 2013](https://lovdata.no/dokument/SF/forskrift/2015-12-16-1692) - tilgjengeliggjøring av sikkerhetsrelatert informasjon
-- Forordning [962 / 2015](https://lovdata.no/dokument/SF/forskrift/2016-12-15-1600) - tilgjengeliggjøring av sanntids informasjon
-- Forordning [1926 / 2017](https://europalov.no/rettsakt/rammeverk-for-iverksetting-av-intelligente-transportsystemer-innen-veitransport-utfyllende/id-10179) - multimodale reiseinformasjonstjenester
+- Forordning [885/2013] (https://europalov.no/rettsakt/intelligente-transportsystemer-krav-til-informasjon-om-parkeringsplasser-for-laste-og-varebiler/id-6360) - oversikt over p-plasser for langtransport
+- Forordning [886/2013](https://lovdata.no/dokument/SF/forskrift/2015-12-16-1692) - tilgjengeliggjøring av sikkerhetsrelatert informasjon
+- Forordning [962/2015](https://lovdata.no/dokument/SF/forskrift/2016-12-15-1600) - tilgjengeliggjøring av sanntids informasjon
+- Forordning [1926/2017](https://europalov.no/rettsakt/rammeverk-for-iverksetting-av-intelligente-transportsystemer-innen-veitransport-utfyllende/id-10179) - multimodale reiseinformasjonstjenester

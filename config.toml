@@ -1,4 +1,5 @@
 baseURL = "https://skibohemen.github.io/nap-help/"
+lastmod = ["lastmod", ":fileModTime"]
 relativeURLs = "true"
 languageCode = "no"
 defaultContentLanguage = "no"
@@ -11,19 +12,22 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "silhouette-hugo"
 publishDir = "docs"
 imggroup = "sorfold"
+fractions = "false"
 
 [languages]
   [languages.no]
    datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
    datacatText = "Datakatalog"
    contentDir = "content/no"
-   title = "Nasjonalt tilgangspunkt for transport- og trafikkdata"
+   title = "Norsk tilgangspunkt for transport- og trafikkdata"
+   portalName = "transportportal.no"
    weight = 1
 
   [languages.en]
     datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN&lang=en"
     datacatText = "Data Sets"
     title = "Norwegian National Access Point"
+    portalName = "NAP"
     contentDir = "content/en"
     weight = 2
 
@@ -35,3 +39,8 @@ imggroup = "sorfold"
   [params.img]
      imgauthor = "E39 Svegatjørn-Rådal,  Knut Opeide"
      background_image = "images/E39.jpg"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true

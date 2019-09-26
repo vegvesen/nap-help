@@ -1,3 +1,5 @@
+- id: portalName
+  translation: "transportportal.no"
 - id: photographer
   translation: "Photo"
 - id: SVV
