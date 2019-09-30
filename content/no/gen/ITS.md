@@ -5,7 +5,7 @@ draft: false
 aliases: [/no/ITS/]
 ---
 
-Det er et gammelt såkalt «rådsdirektiv» (2010/40/EU) innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å [etablere et nasjonalt tilgangspunkt](https://ec.europa.eu/transport/themes/its/road/action_plan/nap_en) samt å sørge for at **trafikk- og transportrelaterte data og tjenester** gjøres tilgjengelig gjennom tilgangspunktet. Formålet er å oppnå sammenhengende og interoperable ITS-tjenester i Europa innenfor vegtransport, og i grenseflatene mot andre transportformer.
+Det er et gammelt såkalt [«rådsdirektiv» 2010/40/EU](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32010L0040) innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å [etablere et nasjonalt tilgangspunkt](https://ec.europa.eu/transport/themes/its/road/action_plan/nap_en) samt å sørge for at **trafikk- og transportrelaterte data og tjenester** gjøres tilgjengelig gjennom tilgangspunktet. Formålet er å oppnå sammenhengende og interoperable ITS-tjenester i Europa innenfor vegtransport, og i grenseflatene mot andre transportformer.
 
 Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:
 

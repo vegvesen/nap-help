@@ -4,13 +4,13 @@ date: 2019-09-20T11:54:59+02:00
 draft: false
 ---
 ## Statens vegvesen
-[Statens vegvesen](https://www.vegvesen.no/) har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvalting av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon i bunn av hver hjelpeside.
+[Statens vegvesen](https://www.vegvesen.no/) har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvalting av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
 
 ## Vegtilsynet
-[Vegtilsynet](https://vegtilsynet.com/) har oppgaven som nasjonal tilsynsmyndighet for ITS direktivets forordninger **b** og **c**. Det er vegtilsynet som foretar stikkprøvekontroller av alle dataleverandører og tjenestetilbydere for forordningene **b** og **c**, og påser at de følger forordningens regler for dokumentasjon og kvalitet.
+[Vegtilsynet](https://vegtilsynet.com/) har oppgaven som nasjonal tilsynsmyndighet for ITS-direktivets artikkel 3, action **b** (forordning [962/2015](https://lovdata.no/dokument/SF/forskrift/2016-12-15-1600) ) og **c** (forordning [886/2013](https://lovdata.no/dokument/SF/forskrift/2015-12-16-1692) ). Det er Vegtilsynet som foretar stikkprøvekontroller av alle dataleverandører og tjenestetilbydere for forordningene, og påser at de følger forordningens regler for dokumentasjon og kvalitet.
 
 ## Jernbanedirektoratet
-[Jernbanedirektoratet](https://www.jernbanedirektoratet.no/) har oppgaven som nasjonal tilsynsmyndighet for ITS direktivets forordning **a** - "multimodal reiseinformasjon".
+[Jernbanedirektoratet](https://www.jernbanedirektoratet.no/) har oppgaven som nasjonal tilsynsmyndighet for ITS direktivets artikkel 3, action **a** - "multimodal reiseinformasjon".
 
 ## Entur
 [Entur](https://www.entur.org/) har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte.
