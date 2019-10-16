@@ -22,22 +22,23 @@ Last ned skjema for Samsvarserklæring: https://www.</description>
     </item>
     
     <item>
-      <title>DCAT</title>
+      <title>DCAT standarden</title>
       <link>https://skibohemen.github.io/nap-help/no/write/dcat/</link>
       <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/no/write/dcat/</guid>
-      <description>Metadata legges inn på NAP ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
+      <description>Metadata legges inn ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
     </item>
     
     <item>
       <title>Legge inn data</title>
       <link>https://skibohemen.github.io/nap-help/no/write/add-data/</link>
-      <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
+      <pubDate>Sat, 20 Jul 2019 06:49:25 +0200</pubDate>
       
       <guid>https://skibohemen.github.io/nap-help/no/write/add-data/</guid>
-      <description>NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
- via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
+      <description>Tilgangspunktet inneholder ikke selve datasettene og tjenestene som skal tilgjengeliggjøres, men kun metadata for disse. Som en del av metadataene vil man finne linker til de underliggende tjenestene og datasettene. Innlegging av metadata kan skje på to måter:
+ Via automatisk høsting av metadata fra egen organisasjonsportal
+ Dette passer for organisasjoner som allerede har en dataportal som lister deres åpne tjenester og datasett. Det må påregnes noe integrasjonsarbeide for at tilgangspunktet i Brønnøysundregistrene skal kunne høste slike data automatisk.</description>
     </item>
     
   </channel>
