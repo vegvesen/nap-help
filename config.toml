@@ -16,14 +16,14 @@ fractions = "false"
 
 [languages]
   [languages.no]
-   datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN"
+   datacat = "https://nap.fellesdatakatalog.brreg.no/"
    datacatText = "Datakatalog"
    contentDir = "content/no"
    title = "Norsk tilgangspunkt for transport- og trafikkdata"
    weight = 1
 
   [languages.en]
-    datacat = "https://fellesdatakatalog.brreg.no/?q=transport&theme=TRAN&lang=en"
+    datacat = "https://nap.fellesdatakatalog.brreg.no/?lang=en"
     datacatText = "Data Sets"
     title = "Norwegian National Access Point"
     contentDir = "content/en"
