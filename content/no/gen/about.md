@@ -1,5 +1,6 @@
 ---
 title: "Informasjon om portalen"
+lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
 date: 2019-09-15T10:21:00+02:00
 draft: false
 aliases: [/no/about/]
