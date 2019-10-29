@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norsk tilgangspunkt for transport- og trafikkdata</title>
-    <link>https://skibohemen.github.io/nap-help/no/gen/</link>
+    <link>https://vegvesen.github.io/nap-help/no/gen/</link>
     <description>Recent content on Norsk tilgangspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://skibohemen.github.io/nap-help/no/gen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vegvesen.github.io/nap-help/no/gen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roller og ansvar</title>
-      <link>https://skibohemen.github.io/nap-help/no/gen/roles/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/roles/</link>
       <pubDate>Fri, 20 Sep 2019 11:54:59 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/gen/roles/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/roles/</guid>
       <description>Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvalting av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
 Vegtilsynet Vegtilsynet har oppgaven som nasjonal tilsynsmyndighet for ITS-direktivets artikkel 3, action b (forordning 962/2015 ) og c (forordning 886/2013 ). Det er Vegtilsynet som foretar stikkprøvekontroller av alle dataleverandører og tjenestetilbydere for forordningene, og påser at de følger forordningens regler for dokumentasjon og kvalitet.</description>
     </item>
     
     <item>
       <title>ITS direktiv og forordninger</title>
-      <link>https://skibohemen.github.io/nap-help/no/gen/its/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/its/</link>
       <pubDate>Fri, 20 Sep 2019 10:34:05 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/gen/its/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/its/</guid>
       <description>Det er et gammelt såkalt «rådsdirektiv» 2010/40/EU innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å etablere et nasjonalt tilgangspunkt samt å sørge for at trafikk- og transportrelaterte data og tjenester gjøres tilgjengelig gjennom tilgangspunktet. Formålet er å oppnå sammenhengende og interoperable ITS-tjenester i Europa innenfor vegtransport, og i grenseflatene mot andre transportformer.
 Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:</description>
     </item>
     
     <item>
       <title>Informasjon om portalen</title>
-      <link>https://skibohemen.github.io/nap-help/no/gen/about/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/about/</link>
       <pubDate>Sun, 15 Sep 2019 10:21:00 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/gen/about/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/about/</guid>
       <description>Sist oppdatert 2019-10-21 14:39:59 &amp;#43;0200 CEST Transportportal.noer det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen er opprettet for å ha tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.
  Portalen inneholder data om blant annet vegstatus, hendelser, reisetider, kollektivruter, rutetider, informasjon, varsling og mobilitet som du kan bruke til å lage egne tjenester og kombinere data fra ulike datasett samt lage nye, fremtidsrettede, gode mobilitetstjenester rettet mot alle trafikanter.</description>
     </item>

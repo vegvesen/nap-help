@@ -1,4 +1,4 @@
-baseURL = "https://skibohemen.github.io/nap-help/"
+baseURL = "https://vegvesen.github.io/nap-help/"
 lastmod = ["lastmod", ":fileModTime"]
 relativeURLs = "true"
 languageCode = "no"

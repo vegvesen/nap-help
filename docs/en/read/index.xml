@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norwegian National Access Point</title>
-    <link>https://skibohemen.github.io/nap-help/en/read/</link>
+    <link>https://vegvesen.github.io/nap-help/en/read/</link>
     <description>Recent content on Norwegian National Access Point</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://skibohemen.github.io/nap-help/en/read/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vegvesen.github.io/nap-help/en/read/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data in NAP</title>
-      <link>https://skibohemen.github.io/nap-help/en/read/data/</link>
+      <link>https://vegvesen.github.io/nap-help/en/read/data/</link>
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/en/read/data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/read/data/</guid>
       <description>SKal oversettes.
 Transportportal.no beskriver hovedsakelig datatyper som er spesifisert i ITS-direktivets forordninger. Hvilke datatyper som hører til er beskrevet i lenkene under. Det kan komme utvidelser av disse kravene etter hvert. Statens vegvesen kan kontaktes for å vurdere om et datasett hører til under transportportal.no eller ikke.
 Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data og til et nasjonalt tilgangspunkt med metadata.
@@ -24,10 +24,10 @@ Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data o
     
     <item>
       <title>NAP content</title>
-      <link>https://skibohemen.github.io/nap-help/en/read/what/</link>
+      <link>https://vegvesen.github.io/nap-help/en/read/what/</link>
       <pubDate>Sun, 18 Aug 2019 12:23:00 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/en/read/what/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/read/what/</guid>
       <description>Engelsk
 Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
 Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.

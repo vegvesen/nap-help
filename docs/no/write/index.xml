@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norsk tilgangspunkt for transport- og trafikkdata</title>
-    <link>https://skibohemen.github.io/nap-help/no/write/</link>
+    <link>https://vegvesen.github.io/nap-help/no/write/</link>
     <description>Recent content on Norsk tilgangspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://skibohemen.github.io/nap-help/no/write/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vegvesen.github.io/nap-help/no/write/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Samsvarserklæring</title>
-      <link>https://skibohemen.github.io/nap-help/no/write/conform/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/conform/</link>
       <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/write/conform/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/conform/</guid>
       <description>Alle dataeiere og tjenestetilbydere som eksponerer sine tjenester gjennom portalen, må følge EU-forordningenes krav med hensyn til samsvarserklæring. I dette ligger det at tjenestetilbydere eller dataeieren må fylle ut et skjema som sendes til tilsynsmyndighetene - dvs. Vegtilsynet for forordning 962/2015 og 886/2013 og til Jernbanedirektoratet for forordning 1926/2017.
 Unnlatelse av å levere samsvarserklæringer eller unnlate å følge forordningens retningslinjer kan medføre reaksjoner.
 Last ned skjema for Samsvarserklæring: https://www.bison-fute.gouv.fr/IMG/pdf/Declaration_de_conformite_action_c_EN.pdf</description>
@@ -23,19 +23,19 @@ Last ned skjema for Samsvarserklæring: https://www.bison-fute.gouv.fr/IMG/pdf/D
     
     <item>
       <title>DCAT standarden</title>
-      <link>https://skibohemen.github.io/nap-help/no/write/dcat/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/dcat/</link>
       <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/write/dcat/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/dcat/</guid>
       <description>Metadata legges inn ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
     </item>
     
     <item>
       <title>Legge inn data</title>
-      <link>https://skibohemen.github.io/nap-help/no/write/add-data/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/add-data/</link>
       <pubDate>Sat, 20 Jul 2019 06:49:25 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/write/add-data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/add-data/</guid>
       <description>Tilgangspunktet inneholder ikke selve datasettene og tjenestene som skal tilgjengeliggjøres, men kun metadata for disse. Som en del av metadataene vil man finne linker til de underliggende tjenestene og datasettene. Innlegging av metadata kan skje på to måter:
  Via automatisk høsting av metadata fra egen organisasjonsportal
  Dette passer for organisasjoner som allerede har en dataportal som lister deres åpne tjenester og datasett. Det må påregnes noe integrasjonsarbeide for at tilgangspunktet i Brønnøysundregistrene skal kunne høste slike data automatisk.</description>

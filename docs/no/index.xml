@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NAP on Norsk tilgangspunkt for transport- og trafikkdata</title>
-    <link>https://skibohemen.github.io/nap-help/no/</link>
+    <link>https://vegvesen.github.io/nap-help/no/</link>
     <description>Recent content in NAP on Norsk tilgangspunkt for transport- og trafikkdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://skibohemen.github.io/nap-help/no/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vegvesen.github.io/nap-help/no/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Samsvarserklæring</title>
-      <link>https://skibohemen.github.io/nap-help/no/write/conform/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/conform/</link>
       <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/write/conform/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/conform/</guid>
       <description>Alle dataeiere og tjenestetilbydere som eksponerer sine tjenester gjennom portalen, må følge EU-forordningenes krav med hensyn til samsvarserklæring. I dette ligger det at tjenestetilbydere eller dataeieren må fylle ut et skjema som sendes til tilsynsmyndighetene - dvs. Vegtilsynet for forordning 962/2015 og 886/2013 og til Jernbanedirektoratet for forordning 1926/2017.
 Unnlatelse av å levere samsvarserklæringer eller unnlate å følge forordningens retningslinjer kan medføre reaksjoner.
 Last ned skjema for Samsvarserklæring: https://www.bison-fute.gouv.fr/IMG/pdf/Declaration_de_conformite_action_c_EN.pdf</description>
@@ -23,40 +23,40 @@ Last ned skjema for Samsvarserklæring: https://www.bison-fute.gouv.fr/IMG/pdf/D
     
     <item>
       <title>Roller og ansvar</title>
-      <link>https://skibohemen.github.io/nap-help/no/gen/roles/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/roles/</link>
       <pubDate>Fri, 20 Sep 2019 11:54:59 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/gen/roles/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/roles/</guid>
       <description>Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvalting av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
 Vegtilsynet Vegtilsynet har oppgaven som nasjonal tilsynsmyndighet for ITS-direktivets artikkel 3, action b (forordning 962/2015 ) og c (forordning 886/2013 ). Det er Vegtilsynet som foretar stikkprøvekontroller av alle dataleverandører og tjenestetilbydere for forordningene, og påser at de følger forordningens regler for dokumentasjon og kvalitet.</description>
     </item>
     
     <item>
       <title>ITS direktiv og forordninger</title>
-      <link>https://skibohemen.github.io/nap-help/no/gen/its/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/its/</link>
       <pubDate>Fri, 20 Sep 2019 10:34:05 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/gen/its/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/its/</guid>
       <description>Det er et gammelt såkalt «rådsdirektiv» 2010/40/EU innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å etablere et nasjonalt tilgangspunkt samt å sørge for at trafikk- og transportrelaterte data og tjenester gjøres tilgjengelig gjennom tilgangspunktet. Formålet er å oppnå sammenhengende og interoperable ITS-tjenester i Europa innenfor vegtransport, og i grenseflatene mot andre transportformer.
 Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:</description>
     </item>
     
     <item>
       <title>Informasjon om portalen</title>
-      <link>https://skibohemen.github.io/nap-help/no/gen/about/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/about/</link>
       <pubDate>Sun, 15 Sep 2019 10:21:00 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/gen/about/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/about/</guid>
       <description>Sist oppdatert 2019-10-21 14:39:59 &amp;#43;0200 CEST Transportportal.noer det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen er opprettet for å ha tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.
  Portalen inneholder data om blant annet vegstatus, hendelser, reisetider, kollektivruter, rutetider, informasjon, varsling og mobilitet som du kan bruke til å lage egne tjenester og kombinere data fra ulike datasett samt lage nye, fremtidsrettede, gode mobilitetstjenester rettet mot alle trafikanter.</description>
     </item>
     
     <item>
       <title>Hva finnes av data?</title>
-      <link>https://skibohemen.github.io/nap-help/no/read/data/</link>
+      <link>https://vegvesen.github.io/nap-help/no/read/data/</link>
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/read/data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/read/data/</guid>
       <description>Transportportal.no beskriver hovedsakelig datatyper som er spesifisert i ITS-direktivets forordninger. Hvilke datatyper som hører til er beskrevet i lenkene under. Det kan komme utvidelser av disse kravene etter hvert. Statens vegvesen kan kontaktes for å vurdere om et datasett hører til under transportportal.no eller ikke.
 Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data og til et nasjonalt tilgangspunkt med metadata.
 «Sikkerhetsrelatert trafikkinformasjon» (Forordning 886/2013), Dette er data som informerer om potensielle farer, f.</description>
@@ -64,10 +64,10 @@ Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data o
     
     <item>
       <title>Innhold av NAP</title>
-      <link>https://skibohemen.github.io/nap-help/no/read/what/</link>
+      <link>https://vegvesen.github.io/nap-help/no/read/what/</link>
       <pubDate>Wed, 04 Sep 2019 12:23:00 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/read/what/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/read/what/</guid>
       <description>Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
 Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
 Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.</description>
@@ -75,19 +75,19 @@ Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med Gene
     
     <item>
       <title>DCAT standarden</title>
-      <link>https://skibohemen.github.io/nap-help/no/write/dcat/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/dcat/</link>
       <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/write/dcat/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/dcat/</guid>
       <description>Metadata legges inn ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
     </item>
     
     <item>
       <title>Legge inn data</title>
-      <link>https://skibohemen.github.io/nap-help/no/write/add-data/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/add-data/</link>
       <pubDate>Sat, 20 Jul 2019 06:49:25 +0200</pubDate>
       
-      <guid>https://skibohemen.github.io/nap-help/no/write/add-data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/add-data/</guid>
       <description>Tilgangspunktet inneholder ikke selve datasettene og tjenestene som skal tilgjengeliggjøres, men kun metadata for disse. Som en del av metadataene vil man finne linker til de underliggende tjenestene og datasettene. Innlegging av metadata kan skje på to måter:
  Via automatisk høsting av metadata fra egen organisasjonsportal
  Dette passer for organisasjoner som allerede har en dataportal som lister deres åpne tjenester og datasett. Det må påregnes noe integrasjonsarbeide for at tilgangspunktet i Brønnøysundregistrene skal kunne høste slike data automatisk.</description>
