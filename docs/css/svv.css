@@ -10,16 +10,40 @@
 .svv-position {
   position: relative;
 }
-/* Fargesettinger */
+/*
+
+Fargesettinger :
+
+  #ececec - SVV lysgrå
+  #444f55 - SVV mørkegrå
+  #58b02c - SVV grønn
+  #008ec2 - SVV blå
+  #ed9300 - SVV oransje
+
+*/
+
+/* Topp navbar */
+nav.navbar {
+  background-color: #444f55!important
+}
+a.navbar-brand {
+  color:   #58b02c!important
+}
+/* Footer */
 footer {
-    background-color: #444f55;
-    color: #fff3e4;
+    background-color: #ececec;
+    color: #000000;
     font-size: .8rem;
     padding: 30px;
 }
 
+/* Sidebar */
+h3.mt-4 {
+  color: #008ec2!important
+}
+
 footer h5, footer a {
-    color: #ff9600!important;
+    color: #008ec2!important;
 }
 
 .dropdown-menu, .dropdown-item {
@@ -34,7 +58,17 @@ footer h5, footer a {
 .sidebar {
   flex: 0 0 25rem;
 }
+
+h2 {
+    font-size: 120%;
+  color: #008ec2!important
+}
+h1 {
+  color:   #008ec2!important
+}
+
 /* Fontstørrelser, innrykk mm på sidebar innhold */
+
 h3.mt-4 {
   font-size: 120%!important;
 }

@@ -19,13 +19,13 @@ fractions = "false"
    datacat = "https://nap.fellesdatakatalog.brreg.no/"
    datacatText = "Datakatalog"
    contentDir = "content/no"
-   title = "Norsk tilgangspunkt for transport- og trafikkdata"
+   title = "transportportal.no"
    weight = 1
 
   [languages.en]
     datacat = "https://nap.fellesdatakatalog.brreg.no/?lang=en"
     datacatText = "Data Sets"
-    title = "Norwegian National Access Point"
+    title = "transportportal.no"
     contentDir = "content/en"
     weight = 2
 
