@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
@@ -46,16 +46,6 @@ Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data o
     </item>
     
     <item>
-      <title>DCAT</title>
-      <link>https://vegvesen.github.io/nap-help/en/write/dcat/</link>
-      <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
-      
-      <guid>https://vegvesen.github.io/nap-help/en/write/dcat/</guid>
-      <description>Engelsk
-Metadata legges inn på NAP ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
-    </item>
-    
-    <item>
       <title>Add data to NAP</title>
       <link>https://vegvesen.github.io/nap-help/en/write/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
@@ -79,7 +69,7 @@ Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med Gene
     </item>
     
     <item>
-      <title>Information about NAP</title>
+      <title>Information about transportportal.no</title>
       <link>https://vegvesen.github.io/nap-help/en/gen/about/</link>
       <pubDate>Thu, 15 Aug 2019 10:21:00 +0200</pubDate>
       

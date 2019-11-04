@@ -11,3 +11,4 @@ Tilgangspunktet inneholder ikke selve datasettene og tjenestene som skal tilgjen
 
  + Via direkte innlegging av metadata via webskjema
   + Her bruker man Brønnøysundregistrenes registreringsløsning (link). Autentisering foregår via ID-porten og personen må ha registrert riktig rolle i Altinn på vegne av sin organisasjon (link til mer info).
+  + [Se også vår forklaring her](/assets/RegData.docx).

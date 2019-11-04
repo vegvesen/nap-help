@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
@@ -33,7 +33,7 @@ Det er et gammelt såkalt «rådsdirektiv» (2010/40/EU) innenfor EU-parlamentet
     </item>
     
     <item>
-      <title>Information about NAP</title>
+      <title>Information about transportportal.no</title>
       <link>https://vegvesen.github.io/nap-help/en/gen/about/</link>
       <pubDate>Thu, 15 Aug 2019 10:21:00 +0200</pubDate>
       

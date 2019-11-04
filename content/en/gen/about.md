@@ -1,5 +1,5 @@
 ---
-title: "Information about NAP"
+title: "Information about transportportal.no"
 date: 2019-08-15T10:21:00+02:00
 draft: false
 aliases: "/about/"
