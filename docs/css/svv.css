@@ -10,6 +10,12 @@
 .svv-position {
   position: relative;
 }
+
+/* Sist oppdatert */
+.lastupdate {
+  text-align: right!important;
+  font-size: smaller!important;
+}
 /*
 
 Fargesettinger :

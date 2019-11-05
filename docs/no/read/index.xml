@@ -16,20 +16,19 @@
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
       
       <guid>https://vegvesen.github.io/nap-help/no/read/data/</guid>
-      <description>Transportportal.no beskriver hovedsakelig datatyper som er spesifisert i ITS-direktivets forordninger. Hvilke datatyper som hører til er beskrevet i lenkene under. Det kan komme utvidelser av disse kravene etter hvert. Statens vegvesen kan kontaktes for å vurdere om et datasett hører til under transportportal.no eller ikke.
-Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data og til et nasjonalt tilgangspunkt med metadata.
-«Sikkerhetsrelatert trafikkinformasjon» (Forordning 886/2013), Dette er data som informerer om potensielle farer, f.</description>
+      <description>Portalen inneholder hovedsakelig datasett og tjenester som omfattes av ITS-direktivets forordninger.
+Nevn noen eksempler
+ Trafikkinfo Ruteinfo &amp;hellip;.  (bilde)
+For utfyllende informasjon, se ( link til ITS direktivet )</description>
     </item>
     
     <item>
-      <title>Innhold av NAP</title>
+      <title>Hvor finner jeg data?</title>
       <link>https://vegvesen.github.io/nap-help/no/read/what/</link>
       <pubDate>Wed, 04 Sep 2019 12:23:00 +0200</pubDate>
       
       <guid>https://vegvesen.github.io/nap-help/no/read/what/</guid>
-      <description>Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
-Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
-Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.</description>
+      <description>Datasettene finner du i portalens datakatalog (link her). Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert et annet sted, og metadataene inneholder linker til disse.</description>
     </item>
     
   </channel>

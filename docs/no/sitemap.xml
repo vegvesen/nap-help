@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vegvesen.github.io/nap-help/no/write/gdpr/</loc>
+    <lastmod>2019-11-05T12:53:09+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vegvesen.github.io/nap-help/no/write/conform/</loc>
     <lastmod>2019-10-21T13:09:58+02:00</lastmod>
   </url>
@@ -80,11 +85,6 @@
                 hreflang="no"
                 href="https://vegvesen.github.io/nap-help/no/read/what/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://vegvesen.github.io/nap-help/no/write/dcat/</loc>
-    <lastmod>2019-10-16T16:05:26+02:00</lastmod>
   </url>
   
   <url>

@@ -15,10 +15,10 @@
 # Overskrift til kategoriene med hjelpefiler
 # Til lesere av datasett
 - id: readCategoryText
-  translation: "For utviklere"
+  translation: "For databrukere"
 # Til dataeiere
 - id: addCategoryText
-  translation: "For datasett eiere"
+  translation: "For datatilbydere"
 # Generelle hjelpefiler
 - id: genCategoryText
   translation: "Generell informasjon"
@@ -36,7 +36,7 @@
 - id: rightToUseText
   translation: "Bruk av data"
 - id: rightToUseDescr
-  translation: "Alle datasett i portalen er åpne, hvis ikke begrensninger er angitt for hvert datasett. Bruken er regulert av "
+  translation: "Alle datasett i portalen er åpne. Brukslisenser og eventuelle betingelser er angitt for hvert datasett."
 # Declaration of compliance
 - id: complDeclaration
   translation: "Samsvarserklæring"

@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>GDPR og personvern</title>
+      <link>https://vegvesen.github.io/nap-help/no/write/gdpr/</link>
+      <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
+      
+      <guid>https://vegvesen.github.io/nap-help/no/write/gdpr/</guid>
+      <description>Alle datasettene som portalen lenker til skal være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.
+For mer informasjon mht GDPR se https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/
+Sist oppdatert: 5. November 2019</description>
+    </item>
+    
+    <item>
       <title>Samsvarserklæring</title>
       <link>https://vegvesen.github.io/nap-help/no/write/conform/</link>
       <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
@@ -27,8 +38,8 @@ Last ned skjema for Samsvarserklæring: https://www.bison-fute.gouv.fr/IMG/pdf/D
       <pubDate>Fri, 20 Sep 2019 11:54:59 +0200</pubDate>
       
       <guid>https://vegvesen.github.io/nap-help/no/gen/roles/</guid>
-      <description>Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvalting av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
-Vegtilsynet Vegtilsynet har oppgaven som nasjonal tilsynsmyndighet for ITS-direktivets artikkel 3, action b (forordning 962/2015 ) og c (forordning 886/2013 ). Det er Vegtilsynet som foretar stikkprøvekontroller av alle dataleverandører og tjenestetilbydere for forordningene, og påser at de følger forordningens regler for dokumentasjon og kvalitet.</description>
+      <description>Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvalting av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen, herunder hva slags datasett som hører hjemme i portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
+Entur Entur har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte.</description>
     </item>
     
     <item>
@@ -47,8 +58,8 @@ Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-a
       <pubDate>Sun, 15 Sep 2019 10:21:00 +0200</pubDate>
       
       <guid>https://vegvesen.github.io/nap-help/no/gen/about/</guid>
-      <description>Sist oppdatert 2019-10-21 14:39:59 &amp;#43;0200 CEST Transportportal.noer det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen er opprettet for å ha tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.
- Portalen inneholder data om blant annet vegstatus, hendelser, reisetider, kollektivruter, rutetider, informasjon, varsling og mobilitet som du kan bruke til å lage egne tjenester og kombinere data fra ulike datasett samt lage nye, fremtidsrettede, gode mobilitetstjenester rettet mot alle trafikanter.</description>
+      <description>Transportportal.noer det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen er opprettet for å gi tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.
+I portalen kan du søke opp datasett både på norsk og engelsk og få nok informasjon om datasettet til å forstå hva det dekker. Datasettene skal være tilgjengelige på standardiserte og spesifiserte dataformater i tråd med ITS-direktiv 2010/40/EU med underliggende forordninger.</description>
     </item>
     
     <item>
@@ -57,29 +68,19 @@ Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-a
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
       
       <guid>https://vegvesen.github.io/nap-help/no/read/data/</guid>
-      <description>Transportportal.no beskriver hovedsakelig datatyper som er spesifisert i ITS-direktivets forordninger. Hvilke datatyper som hører til er beskrevet i lenkene under. Det kan komme utvidelser av disse kravene etter hvert. Statens vegvesen kan kontaktes for å vurdere om et datasett hører til under transportportal.no eller ikke.
-Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data og til et nasjonalt tilgangspunkt med metadata.
-«Sikkerhetsrelatert trafikkinformasjon» (Forordning 886/2013), Dette er data som informerer om potensielle farer, f.</description>
+      <description>Portalen inneholder hovedsakelig datasett og tjenester som omfattes av ITS-direktivets forordninger.
+Nevn noen eksempler
+ Trafikkinfo Ruteinfo &amp;hellip;.  (bilde)
+For utfyllende informasjon, se ( link til ITS direktivet )</description>
     </item>
     
     <item>
-      <title>Innhold av NAP</title>
+      <title>Hvor finner jeg data?</title>
       <link>https://vegvesen.github.io/nap-help/no/read/what/</link>
       <pubDate>Wed, 04 Sep 2019 12:23:00 +0200</pubDate>
       
       <guid>https://vegvesen.github.io/nap-help/no/read/what/</guid>
-      <description>Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
-Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
-Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.</description>
-    </item>
-    
-    <item>
-      <title>DCAT standarden</title>
-      <link>https://vegvesen.github.io/nap-help/no/write/dcat/</link>
-      <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
-      
-      <guid>https://vegvesen.github.io/nap-help/no/write/dcat/</guid>
-      <description>Metadata legges inn ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
+      <description>Datasettene finner du i portalens datakatalog (link her). Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert et annet sted, og metadataene inneholder linker til disse.</description>
     </item>
     
     <item>

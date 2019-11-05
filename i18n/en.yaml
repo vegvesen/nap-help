@@ -15,10 +15,10 @@
 # Overskrift til de tre kategoriene med hjelpefiler
 # Til brukere av datasett
 - id: readCategoryText
-  translation: "For developers"
+  translation: "For users of data"
 # Til dataeiere
 - id: addCategoryText
-  translation: "For providers"
+  translation: "For data providers"
 # Generelle hjelpefiler
 - id: genCategoryText
   translation: "General information"
@@ -35,7 +35,7 @@
 - id: rightToUseText
   translation: "Right to use"
 - id: rightToUseDescr
-  translation: "All data in NAP are open and free to use, unless otherwise stated. The use is regulated by "
+  translation: "All data are open and free to use. Right-to-use licenses and possible other terms are specified per dataset."
 # Declaration of compliance
 - id: complDeclaration
   translation: "Declaration of Compliance"

@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>GDPR og personvern</title>
+      <link>https://vegvesen.github.io/nap-help/no/write/gdpr/</link>
+      <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
+      
+      <guid>https://vegvesen.github.io/nap-help/no/write/gdpr/</guid>
+      <description>Alle datasettene som portalen lenker til skal være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.
+For mer informasjon mht GDPR se https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/
+Sist oppdatert: 5. November 2019</description>
+    </item>
+    
+    <item>
       <title>Samsvarserklæring</title>
       <link>https://vegvesen.github.io/nap-help/no/write/conform/</link>
       <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
@@ -19,15 +30,6 @@
       <description>Alle dataeiere og tjenestetilbydere som eksponerer sine tjenester gjennom portalen, må følge EU-forordningenes krav med hensyn til samsvarserklæring. I dette ligger det at tjenestetilbydere eller dataeieren må fylle ut et skjema som sendes til tilsynsmyndighetene - dvs. Vegtilsynet for forordning 962/2015 og 886/2013 og til Jernbanedirektoratet for forordning 1926/2017.
 Unnlatelse av å levere samsvarserklæringer eller unnlate å følge forordningens retningslinjer kan medføre reaksjoner.
 Last ned skjema for Samsvarserklæring: https://www.bison-fute.gouv.fr/IMG/pdf/Declaration_de_conformite_action_c_EN.pdf</description>
-    </item>
-    
-    <item>
-      <title>DCAT standarden</title>
-      <link>https://vegvesen.github.io/nap-help/no/write/dcat/</link>
-      <pubDate>Fri, 30 Aug 2019 10:05:36 +0200</pubDate>
-      
-      <guid>https://vegvesen.github.io/nap-help/no/write/dcat/</guid>
-      <description>Metadata legges inn ihht. DCAT standarden, med norske tillegg DCAT-NO.</description>
     </item>
     
     <item>
