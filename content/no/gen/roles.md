@@ -12,7 +12,7 @@ draft: false
 [Entur](https://www.entur.org/) har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte.
 
 ## Brønnøysundregistrene
- Transportportal.no inngår som en del av [«Felles datakatalog for Norge»]((https://fellesdatakatalog.brreg.no/), og driftes av [Brønnøysundregistrene](https://www.brreg.no/).
+ Transportportal.no inngår som en del av [«Felles datakatalog for Norge»](https://fellesdatakatalog.brreg.no/), og driftes av [Brønnøysundregistrene](https://www.brreg.no/).
 
 ## Jernbanedirektoratet
 [Jernbanedirektoratet](https://www.jernbanedirektoratet.no/) har oppgaven som nasjonal tilsynsmyndighet for forordning [1926/2017](https://europalov.no/rettsakt/rammeverk-for-iverksetting-av-intelligente-transportsystemer-innen-veitransport-utfyllende/id-10179) om multimodale reiseinformasjonstjenester.
