@@ -28,6 +28,9 @@
 - id: contactDescr
   translation: "Alle spørsmål knyttet til denne portalen kan rettes
    til"
+# Felles datakatalog brreg
+- id: fkkat_URL
+  translation: "https://nap.fellesdatakatalog.brreg.no/"
 # dcat
 - id: dcat_URL
   translation: "https://doc.difi.no/dcat-ap-no/"

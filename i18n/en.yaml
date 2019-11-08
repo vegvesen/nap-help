@@ -27,6 +27,9 @@
   translation: "Contact"
 - id: contactDescr
   translation: "All questions regarding this portal can be addressed to"
+# Felles datakatalog brreg
+- id: fkkat_URL
+  translation: "https://nap.fellesdatakatalog.brreg.no/?lang=en"
 # dcat
 - id: dcat_URL
   translation: "https://doc.difi.no/dcat-ap-no/"
