@@ -7,6 +7,7 @@ draft: false
 Portalen inneholder hovedsakelig datasett og tjenester som omfattes av ITS-direktivets forordninger, for eksempel:
 
 + Trafikkinformasjon om hendelser, reisetider, vær- og føreforhold
++ Statiske data om vegnettet
 + Rute- og sanntidsinformasjon om kollektivtrafikk
 + Stoppestedsregister for kollektivtrafikk
 + Data om trafikken på vegnettet
@@ -18,3 +19,5 @@ Portalen inneholder hovedsakelig datasett og tjenester som omfattes av ITS-direk
     class="imgresponsive" height="400" >}}
 
 For utfyllende informasjon, se [ITS direktivet og forordningene]({{<ref "ITS.md" >}}).
+
+{{< lastupdate >}}

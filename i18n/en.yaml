@@ -27,9 +27,12 @@
   translation: "Contact"
 - id: contactDescr
   translation: "All questions regarding this portal can be addressed to"
-  # Right to use info, NLOD etc - English version
+# dcat
+- id: dcat_URL
+  translation: "https://doc.difi.no/dcat-ap-no/"
+# Right to use info, NLOD etc - English version
 - id: nlod_URL
-  translation: "https://data.norge.no/nlod/en/2.0"
+  translation: "https://data.norge.no/nlod/en"
 - id: NLOD
   translation: "Norwegian Licence for Open Government Data (NLOD)"
 - id: rightToUseText

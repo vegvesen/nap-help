@@ -28,9 +28,12 @@
 - id: contactDescr
   translation: "Alle spørsmål knyttet til denne portalen kan rettes
    til"
+# dcat
+- id: dcat_URL
+  translation: "https://doc.difi.no/dcat-ap-no/"
 # Right to use info, NLOD etc
 - id: nlod_URL
-  translation: "https://data.norge.no/nlod/no/2.0"
+  translation: "https://data.norge.no/nlod/no/"
 - id: NLOD
   translation: "Norsk lisens for offentlige data (NLOD)"
 - id: rightToUseText
