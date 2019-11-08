@@ -48,8 +48,9 @@ Entur Entur har mandat til å koordinere, bearbeide og sy sammen reisedata fra a
       <pubDate>Fri, 20 Sep 2019 10:34:05 +0200</pubDate>
       
       <guid>https://vegvesen.github.io/nap-help/no/gen/its/</guid>
-      <description>Det er et gammelt såkalt «rådsdirektiv» 2010/40/EU innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å etablere et nasjonalt tilgangspunkt samt å sørge for at trafikk- og transportrelaterte data og tjenester gjøres tilgjengelig gjennom tilgangspunktet. Formålet er å oppnå sammenhengende og interoperable ITS-tjenester i Europa innenfor vegtransport, og i grenseflatene mot andre transportformer.
-Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:</description>
+      <description>EUs ITS-direktiv 2010/40/EU pålegger EUs medlemsstater, og Norge gjennom EØS-avtalen, å etablere et nasjonalt tilgangspunkt for tilgjengeliggjøring av veg- og transportdata. Formålet er å oppnå sammenhengende og interoperable tjenester i Europa.
+Direktivet er senere etterfulgt av mer detaljerte forordninger:
+ Forordning 885/2013 - informasjonstjenester for sikker parkering av lastebiler og nyttekjøretøyer (ingen offisiell tjeneste i Norge foreløpig) Forordning 886/2013 - tilgjengeliggjøring av sikkerhetsrelatert informasjon Forordning 962/2015 - tilgjengeliggjøring av sanntids trafikkinformasjon Forordning 1926/2017 - multimodale reiseinformasjonstjenester (under implementering)  Sist oppdatert: 30.</description>
     </item>
     
     <item>
@@ -80,7 +81,7 @@ Sist oppdatert: 8. November 2019</description>
       
       <guid>https://vegvesen.github.io/nap-help/no/read/what/</guid>
       <description>Datasettene finner du i portalens datakatalog. Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert et annet sted, og metadataene inneholder linker til disse.
-Sist oppdatert: 5. November 2019</description>
+Sist oppdatert: 8. November 2019</description>
     </item>
     
     <item>

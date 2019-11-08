@@ -5,11 +5,13 @@ draft: false
 aliases: [/no/ITS/]
 ---
 
-Det er et gammelt såkalt [«rådsdirektiv» 2010/40/EU](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32010L0040) innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å [etablere et nasjonalt tilgangspunkt](https://ec.europa.eu/transport/themes/its/road/action_plan/nap_en) samt å sørge for at **trafikk- og transportrelaterte data og tjenester** gjøres tilgjengelig gjennom tilgangspunktet. Formålet er å oppnå sammenhengende og interoperable ITS-tjenester i Europa innenfor vegtransport, og i grenseflatene mot andre transportformer.
+[EUs ITS-direktiv 2010/40/EU](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32010L0040) pålegger EUs medlemsstater, og Norge gjennom EØS-avtalen, å etablere et [nasjonalt tilgangspunkt](https://ec.europa.eu/transport/themes/its/road/action_plan/nap_en) for tilgjengeliggjøring av veg- og transportdata. Formålet er å oppnå sammenhengende og interoperable tjenester i Europa.
 
-Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:
+Direktivet er senere etterfulgt av mer detaljerte forordninger:
 
-- Forordning [885/2013] (https://europalov.no/rettsakt/intelligente-transportsystemer-krav-til-informasjon-om-parkeringsplasser-for-laste-og-varebiler/id-6360) - oversikt over p-plasser for langtransport
-- Forordning [886/2013](https://lovdata.no/dokument/SF/forskrift/2015-12-16-1692) - tilgjengeliggjøring av sikkerhetsrelatert informasjon
-- Forordning [962/2015](https://lovdata.no/dokument/SF/forskrift/2016-12-15-1600) - tilgjengeliggjøring av sanntids informasjon
-- Forordning [1926/2017](https://europalov.no/rettsakt/rammeverk-for-iverksetting-av-intelligente-transportsystemer-innen-veitransport-utfyllende/id-10179) - multimodale reiseinformasjonstjenester
++ [Forordning 885/2013](https://europalov.no/rettsakt/intelligente-transportsystemer-krav-til-informasjon-om-parkeringsplasser-for-laste-og-varebiler/id-6360)  - informasjonstjenester for sikker parkering av lastebiler og nyttekjøretøyer (ingen offisiell tjeneste i Norge foreløpig)
++ [Forordning 886/2013](https://lovdata.no/dokument/SF/forskrift/2015-12-16-1692) - tilgjengeliggjøring av sikkerhetsrelatert informasjon
++ [Forordning 962/2015](https://lovdata.no/dokument/SF/forskrift/2016-12-15-1600) - tilgjengeliggjøring av sanntids trafikkinformasjon
++ [Forordning 1926/2017](https://europalov.no/rettsakt/rammeverk-for-iverksetting-av-intelligente-transportsystemer-innen-veitransport-utfyllende/id-10179) - multimodale reiseinformasjonstjenester (under implementering)
+
+{{< lastupdate >}}
