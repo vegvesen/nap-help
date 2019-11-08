@@ -3,9 +3,11 @@ title: "Samsvarserklæring"
 date: 2019-09-23T07:48:42+02:00
 draft: false
 ---
-Alle dataeiere og tjenestetilbydere som eksponerer sine tjenester gjennom portalen, må følge EU-forordningenes krav med hensyn til *samsvarserklæring*. I dette ligger det at tjenestetilbydere eller dataeieren må fylle ut et skjema som sendes til tilsynsmyndighetene - dvs. Vegtilsynet for forordning  962/2015 og 886/2013 og til Jernbanedirektoratet for forordning 1926/2017.
+Dataeiere og tjenestetilbydere som deler sine data og tjenester i portalen, må følge EU-forordningenes krav med hensyn til samsvarserklæring.  For forordning 886/2013 leverer datatilbydere av trafikksikkerhetsrelatert informasjon sin samsvarserklæring til Vegtilsynet. For forordning 962/2015 og 1926/2017 pågår avklaring av praksis. Mer informasjon vil komme.
 
-Unnlatelse av å levere samsvarserklæringer eller unnlate å følge forordningens retningslinjer kan medføre reaksjoner.
+Skjema for samsvarserklæring:
 
-Last ned skjema for Samsvarserklæring:
-https://www.bison-fute.gouv.fr/IMG/pdf/Declaration_de_conformite_action_c_EN.pdf
++ [For 886/2013 om tilgjengeliggjøring av sikkerhetsrelatert informasjon](https://www.its-platform.eu/filedepot_download/1980/5870)
++ [For 962/2015 om tilgjengeliggjøring av sanntids trafikkinformasjon](https://www.its-platform.eu/filedepot_download/2216/6242)
+
+{{< lastupdate >}}
