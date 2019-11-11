@@ -1,4 +1,5 @@
 ---
+lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
 title: "ITS direktiv og forordninger"
 date: 2019-09-20T10:34:05+02:00
 draft: false

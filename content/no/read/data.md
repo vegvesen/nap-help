@@ -1,4 +1,5 @@
 ---
+lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
 title: "Hva finnes av data?"
 date: 2019-09-11T12:04:31+02:00
 draft: false
