@@ -27,7 +27,10 @@ De to første er svært like (NLOD er gjeldende anbefaling fra Difi og mest bruk
 
 Den siste lisensen bruker du hvis du vil gi avkall på alle rettigheter til dataene.
 
-Hvis du ønsker å bruke en annen åpen lisens, kontakt oss slik at vi kan gjøre den tilgjengelig i registreringsløsningen.
+
+Hvis du ønsker å bruke en annen åpen lisens, kontakt oss på transportportal@vegvesen.no slik at vi kan gjøre den tilgjengelig i registreringsløsningen.
+
+
 
 
 {{< lastupdate >}}
