@@ -7,7 +7,7 @@ draft: false
 
 
 ## Statens vegvesen
-[Statens vegvesen](https://www.vegvesen.no/) Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvaltning av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
+[Statens vegvesen](https://www.vegvesen.no/) har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvaltning av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
 
 ## Entur
 [Entur](https://www.entur.org/) har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte.
