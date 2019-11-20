@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vegvesen.github.io/nap-help/en/</loc>
+    <lastmod>2019-09-11T12:23:40+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://vegvesen.github.io/nap-help/no/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vegvesen.github.io/nap-help/en/"
+                />
+  </url>
+  
+  <url>
     <loc>https://vegvesen.github.io/nap-help/en/gen/roles/</loc>
     <lastmod>2019-09-23T08:17:02+02:00</lastmod>
     <xhtml:link
@@ -89,21 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://vegvesen.github.io/nap-help/en/gen/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://vegvesen.github.io/nap-help/en/</loc>
-    <lastmod>2019-09-11T12:23:40+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://vegvesen.github.io/nap-help/no/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vegvesen.github.io/nap-help/en/"
                 />
   </url>
   

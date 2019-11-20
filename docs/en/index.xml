@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>transportportal.no</title>
+    <title>NAP on transportportal.no</title>
     <link>https://vegvesen.github.io/nap-help/en/</link>
-    <description>Recent content on transportportal.no</description>
+    <description>Recent content in NAP on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Jul 2019 06:49:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 15:21:00 +0200</lastBuildDate>
     
 	<atom:link href="https://vegvesen.github.io/nap-help/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,11 @@
     <item>
       <title>Roles and Responsibility</title>
       <link>https://vegvesen.github.io/nap-help/en/gen/roles/</link>
-      <pubDate>Fri, 20 Sep 2019 11:54:59 +0200</pubDate>
+      <pubDate>Wed, 20 Nov 2019 11:54:59 +0200</pubDate>
       
       <guid>https://vegvesen.github.io/nap-help/en/gen/roles/</guid>
-      <description>This text will be translated.
-Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvalting av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon i bunn av hver hjelpeside.
-Vegtilsynet Vegtilsynet har oppgaven som nasjonal tilsynsmyndighet for ITS direktivets forordninger b og c. Det er vegtilsynet som foretar stikkprøvekontroller av alle dataleverandører og tjenestetilbydere for forordningene b og c, og påser at de følger forordningens regler for dokumentasjon og kvalitet.</description>
+      <description>Statens vegvesen (Norwegian Public Roads Administration – NPRA) NPRA is the responsible authority for establishing the National Access Point and is responsible for management and use of the solution (transportportal.no). NPRA has also the responsibility for support and other issues related to the portal. See contact data at the bottom of each page.
+Entur Entur has the mandate to collect, adapt and coordinate travel data from all public transport companies in Norway, in such a way that all travelers may have access to the complete public transport supply in a uniform and standardized way.</description>
     </item>
     
     <item>

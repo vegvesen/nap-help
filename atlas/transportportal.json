@@ -9,7 +9,7 @@
       "type": "GavImageDescriptor",
       "spec": {
         "artifactId": "napt",
-        "groupId": "no.vegvesen.vt.transportportal",
+        "groupId": "vt.transportportal",
         "port": 8080
       }
     },
@@ -41,15 +41,14 @@
       {
         "type": "CpuResources",
         "spec": {
-          "min": "50m",
-          "max": "500m"
+          "max": "200m"
         }
       },
       {
         "type": "MemResources",
         "spec": {
-          "min": "100M",
-          "max": "300M"
+          "min": "64M",
+          "max": "128M"
         }
       }
     ]
