@@ -1,0 +1,45 @@
+baseURL = "https://vegvesen.github.io/nap-help/"
+#baseURL = "https://transportportal.utv.atlas.vegvesen.no"
+lastmod = ["lastmod", ":fileModTime"]
+relativeURLs = "true"
+languageCode = "no"
+defaultContentLanguage = "no"
+defaultContentLanguageInSubdir = true
+buildDrafts = false
+enableEmoji = true
+enableGitInfo = true
+EnableMissingTranslationPlaceholders = "true"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+theme = "silhouette-hugo"
+publishDir = "docs"
+imggroup = "sorfold"
+fractions = "false"
+
+[languages]
+  [languages.no]
+   datacat = "https://nap.fellesdatakatalog.brreg.no/"
+   datacatText = "Datakatalog"
+   contentDir = "content/no"
+   title = "transportportal.no"
+   weight = 1
+
+  [languages.en]
+    datacat = "https://nap.fellesdatakatalog.brreg.no/?lang=en"
+    datacatText = "Data Sets"
+    title = "transportportal.no"
+    contentDir = "content/en"
+    weight = 2
+
+
+[params]
+  author = "Statens vegvesen"
+  introDescription = "Intro"
+  contactEmail = "transportportal@vegvesen.no"
+  [params.img]
+     imgauthor = "E39 Svegatjørn-Rådal,  Knut Opeide"
+     background_image = "images/E39.jpg"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true

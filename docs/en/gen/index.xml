@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
-    <link>https://vegvesen.github.io/nap-help/en/gen/</link>
+    <link>https://transportportal.utv.atlas.vegvesen.no/en/gen/</link>
     <description>Recent content on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://vegvesen.github.io/nap-help/en/gen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://transportportal.utv.atlas.vegvesen.no/en/gen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roles and Responsibility</title>
-      <link>https://vegvesen.github.io/nap-help/en/gen/roles/</link>
+      <link>https://transportportal.utv.atlas.vegvesen.no/en/gen/roles/</link>
       <pubDate>Wed, 20 Nov 2019 11:54:59 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/gen/roles/</guid>
+      <guid>https://transportportal.utv.atlas.vegvesen.no/en/gen/roles/</guid>
       <description>Statens vegvesen (Norwegian Public Roads Administration – NPRA) NPRA is the responsible authority for establishing the National Access Point and is responsible for management and use of the solution (transportportal.no). NPRA has also the responsibility for support and other issues related to the portal. See contact data at the bottom of each page.
 Entur Entur has the mandate to collect, adapt and coordinate travel data from all public transport companies in Norway, in such a way that all travelers may have access to the complete public transport supply in a uniform and standardized way.</description>
     </item>
     
     <item>
       <title>ITS directives and regulations</title>
-      <link>https://vegvesen.github.io/nap-help/en/gen/its/</link>
+      <link>https://transportportal.utv.atlas.vegvesen.no/en/gen/its/</link>
       <pubDate>Fri, 20 Sep 2019 10:34:05 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/gen/its/</guid>
+      <guid>https://transportportal.utv.atlas.vegvesen.no/en/gen/its/</guid>
       <description>Text (and links) will be translated.
 Det er et gammelt såkalt «rådsdirektiv» (2010/40/EU) innenfor EU-parlamentets ITS-paraply som pålegger medlemsstater å etablere et nasjonalt tilgangspunkt samt å sørge for at trafikk- og transportrelaterte data og tjenester gjøres tilgjengelig gjennom tilgangspunktet. Norge omfattes også av direktivet gjennom de forpliktelsene som ligger i EØS-avtalen. Direktivet er senere etterfulgt av mer detaljerte og rettskraftige forordninger:
  Forordning 885/2013 - oversikt over p-plasser for langtransport Forordning 886/2013 - tilgjengeliggjøring av sikkerhetsrelatert informasjon Forordning 962/2015 - tilgjengeliggjøring av sanntids informasjon Forordning 1926/2017 - multimodale reiseinformasjonstjenester  </description>
@@ -33,10 +33,10 @@ Det er et gammelt såkalt «rådsdirektiv» (2010/40/EU) innenfor EU-parlamentet
     
     <item>
       <title>Information about transportportal.no</title>
-      <link>https://vegvesen.github.io/nap-help/en/gen/about/</link>
+      <link>https://transportportal.utv.atlas.vegvesen.no/en/gen/about/</link>
       <pubDate>Thu, 15 Aug 2019 10:21:00 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/gen/about/</guid>
+      <guid>https://transportportal.utv.atlas.vegvesen.no/en/gen/about/</guid>
       <description>This page will be translated to English.
  Transportportal.noer det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen opprettes spesielt for å ha tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.
  Portalen inneholder data om blant annet vegstatus, hendelser, reisetider, kollektivruter, rutetider, informasjon, varsling og mobilitet som du kan bruke til å lage egne tjenester og kombinere data fra ulike datasett samt lage nye, fremtidsrettede, gode mobilitetstjenester rettet mot alle trafikanter.</description>

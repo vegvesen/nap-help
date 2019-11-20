@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
-    <link>https://vegvesen.github.io/nap-help/en/write/</link>
+    <link>https://transportportal.utv.atlas.vegvesen.no/en/write/</link>
     <description>Recent content on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://vegvesen.github.io/nap-help/en/write/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://transportportal.utv.atlas.vegvesen.no/en/write/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Add data to NAP</title>
-      <link>https://vegvesen.github.io/nap-help/en/write/add-data/</link>
+      <link>https://transportportal.utv.atlas.vegvesen.no/en/write/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/write/add-data/</guid>
+      <guid>https://transportportal.utv.atlas.vegvesen.no/en/write/add-data/</guid>
       <description>Engelsk
 NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
  via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
