@@ -34,7 +34,6 @@ fractions = "false"
 [params]
   author = "Statens vegvesen"
   introDescription = "Intro"
-  contactEmail = "transportportal@vegvesen.no"
   [params.img]
      imgauthor = "E39 Svegatjørn-Rådal,  Knut Opeide"
      background_image = "images/E39.jpg"

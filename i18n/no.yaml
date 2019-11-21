@@ -46,3 +46,6 @@
 # Declaration of compliance
 - id: complDeclaration
   translation: "Samsvarserklæring"
+# Kontaktadresse
+- id: contactEmail
+  translation: "kontakt@transportportal.no"

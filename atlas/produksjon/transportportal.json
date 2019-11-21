@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "v1",
+  "type": "Deployment",
+  "spec": {
+    "route": {
+      "type": "Route",
+      "spec": {
+        "hostname": "transportportal.atlas.vegvesen.no"
+      }
+    },
+    "image": {
+      "type": "GavImageDescriptor",
+      "spec": {
+        "version": "v0.9.3"
+      }
+    }
+  }
+}

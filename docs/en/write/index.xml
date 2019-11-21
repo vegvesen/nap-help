@@ -11,6 +11,25 @@
     
     
     <item>
+      <title>GDPR and Data Protection</title>
+      <link>https://transportportal.utv.atlas.vegvesen.no/en/write/gdpr/</link>
+      <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
+      
+      <guid>https://transportportal.utv.atlas.vegvesen.no/en/write/gdpr/</guid>
+      <description>All data linked to from the portal are to follow med General Data Protection Regulations (GDPR). It shall not be possible to extract personal data from any set of data.
+  More information about GDPR  </description>
+    </item>
+    
+    <item>
+      <title>Declaration of Compliance</title>
+      <link>https://transportportal.utv.atlas.vegvesen.no/en/write/conform/</link>
+      <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
+      
+      <guid>https://transportportal.utv.atlas.vegvesen.no/en/write/conform/</guid>
+      <description>Data and service providers that share their data and services via the portal must follow the requirements of the delegated regulations related to declaration of compliance. For delegated regulation 886/2013 on provision of safety related information the data and service provider shall submit a self-declaration of compliance to The Road Supervisory Authority. For the regulations 962/2015 on provision of real time traffic data and 1926/2017 the practical procedures will be decided.</description>
+    </item>
+    
+    <item>
       <title>Add data to NAP</title>
       <link>https://transportportal.utv.atlas.vegvesen.no/en/write/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>

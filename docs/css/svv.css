@@ -28,6 +28,11 @@ Fargesettinger :
 
 */
 
+/* Midtfelt */
+.main {
+  background-color: #fff!important
+}
+
 /* Topp navbar */
 nav.navbar {
   background-color: #444f55!important
@@ -43,10 +48,7 @@ footer {
     padding: 30px;
 }
 
-/* Sidebar */
-h3.mt-4 {
-  color: #58b02c!important
-}
+
 
 footer h5, footer a {
     color: #008ec2!important;
@@ -77,7 +79,9 @@ h1 {
 
 h3.mt-4 {
   font-size: 120%!important;
-}
+  color: #58b02c!important;
+  }
+
 
 .nav-link {
   padding: 0em 0em 0em 1em;

@@ -17,7 +17,7 @@
       
       <guid>https://transportportal.utv.atlas.vegvesen.no/no/write/gdpr/</guid>
       <description>Alle datasettene som portalen lenker til skal være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.
-For mer informasjon mht GDPR se https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/
+ For mer informasjon om GDPR se Datatilsynet
 Sist oppdatert: 5. November 2019</description>
     </item>
     
@@ -90,7 +90,8 @@ Sist oppdatert: 8. November 2019</description>
       <pubDate>Sat, 20 Jul 2019 06:49:25 +0200</pubDate>
       
       <guid>https://transportportal.utv.atlas.vegvesen.no/no/write/add-data/</guid>
-      <description>Tilgangspunktet inneholder ikke selve datasettene og tjenestene som skal tilgjengeliggjøres, men kun metadata for disse. Som en del av metadataene vil man finne linker til de underliggende tjenestene og datasettene. Innlegging av metadata kan skje på to måter:
+      <description>Tilgangspunktet inneholder ikke selve datasettene og tjenestene som skal tilgjengeliggjøres, men kun metadata for disse. Som en del av metadataene vil man finne linker til de underliggende tjenestene og datasettene.
+Legg inn metadata Innlegging av metadata kan skje på to måter:
  Via automatisk høsting av metadata fra egen organisasjonsportal
  Dette passer for organisasjoner som allerede har en dataportal som lister deres åpne tjenester og datasett. Det må påregnes noe integrasjonsarbeide for at tilgangspunktet i Brønnøysundregistrene skal kunne høste slike data automatisk.</description>
     </item>

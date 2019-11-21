@@ -16,22 +16,17 @@
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
       
       <guid>https://transportportal.utv.atlas.vegvesen.no/en/read/data/</guid>
-      <description>SKal oversettes.
-Transportportal.no beskriver hovedsakelig datatyper som er spesifisert i ITS-direktivets forordninger. Hvilke datatyper som hører til er beskrevet i lenkene under. Det kan komme utvidelser av disse kravene etter hvert. Statens vegvesen kan kontaktes for å vurdere om et datasett hører til under transportportal.no eller ikke.
-Det er tre forordninger som i dag stiller krav om tilgjengeliggjøring av data og til et nasjonalt tilgangspunkt med metadata.
-«Sikkerhetsrelatert trafikkinformasjon» (Forordning 886/2013), Dette er data som informerer om potensielle farer, f.</description>
+      <description>The portal contains mainly data and services required by the delegated regulations under the ITS Directive. For example:
+ Traffic information about incidents, travels time, road weather and driving conditions Static data about the road network Public transport services and real time information Public transport stops and terminals Data on traffic on the road network Information about parking facilities Data about «new micro mobility services» like city bikes, electric scooters etc.</description>
     </item>
     
     <item>
-      <title>NAP content</title>
+      <title>Where do I find the data?</title>
       <link>https://transportportal.utv.atlas.vegvesen.no/en/read/what/</link>
       <pubDate>Sun, 18 Aug 2019 12:23:00 +0200</pubDate>
       
       <guid>https://transportportal.utv.atlas.vegvesen.no/en/read/what/</guid>
-      <description>Engelsk
-Portalen inneholder kun metadata om datasettet, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er oftest plassert hos hver enkelt dataeier, og metadataene inneholder linker til disse.
-Datasett knyttet til portalen skal fortrinnsvis være åpne. Dersom det foreligger betalingsbetingelser eller andre bruksvilkår, håndteres avtaler og fakturering av dataeier.
-Alle datasett som knyttes opp mot portalen må dessuten være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.</description>
+      <description>You will find the sets of available data in the data catalogue of the portal. The portal contains only metadata describing the actual data and how to find them. The data sources are as a rule located elsewhere, and the metadata therefore contains the links to access the transport data. </description>
     </item>
     
   </channel>
