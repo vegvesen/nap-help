@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NAP on transportportal.no</title>
-    <link>https://transportportal.utv.atlas.vegvesen.no/en/</link>
-    <description>Recent content in NAP on transportportal.no</description>
+    <title>transportportal.no</title>
+    <link>https://vegvesen.github.io/nap-help/en/</link>
+    <description>Recent content on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Wed, 20 Nov 2019 15:21:00 +0200</lastBuildDate>
     
-	<atom:link href="https://transportportal.utv.atlas.vegvesen.no/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vegvesen.github.io/nap-help/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roles and Responsibility</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/gen/roles/</link>
+      <link>https://vegvesen.github.io/nap-help/en/gen/roles/</link>
       <pubDate>Wed, 20 Nov 2019 11:54:59 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/gen/roles/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/gen/roles/</guid>
       <description>Statens vegvesen (Norwegian Public Roads Administration – NPRA) NPRA is the responsible authority for establishing the National Access Point and is responsible for management and use of the solution (transportportal.no). NPRA has also the responsibility for support and other issues related to the portal. See contact data at the bottom of each page.
 Entur Entur has the mandate to collect, adapt and coordinate travel data from all public transport companies in Norway, in such a way that all travelers may have access to the complete public transport supply in a uniform and standardized way.</description>
     </item>
     
     <item>
       <title>ITS Directive and Delegated Regulations</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/gen/its/</link>
+      <link>https://vegvesen.github.io/nap-help/en/gen/its/</link>
       <pubDate>Wed, 20 Nov 2019 10:34:05 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/gen/its/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/gen/its/</guid>
       <description>The ITS Directive of the EU (2010/40/EU) instructs the EU member states- and Norway as part of the EEA agreement – to establish a National Access Point (NAP) to make open road and transport data available. The purpose is to achieve continuous and interoperable services in Europe.
 The ITS Directive gives the EU Commission the authority to define delegated regulations with detailed specifications:
  Delegated regulation 885/2013 – Information services for safe and secure parking (no official service started in Norway yet) Delegated regulation 886/2013 – on the provision, where possible, of road safety-related minimum universal traffic information free of charge to users (SRTI) Delegated regulation 962/2015 - on the provision of EU-wide real-time traffic information services (RTTI) Delegated regulation 1926/2017 - on EU-wide multimodal travel information services (MMTI) (under legal implementation in Norway)   </description>
@@ -34,49 +34,49 @@ The ITS Directive gives the EU Commission the authority to define delegated regu
     
     <item>
       <title>Information about the portal</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/gen/about/</link>
+      <link>https://vegvesen.github.io/nap-help/en/gen/about/</link>
       <pubDate>Fri, 15 Nov 2019 10:21:00 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/gen/about/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/gen/about/</guid>
       <description>Transportportal.nois the National Access Point (NAP) for transport data in Norway. The portal is established to secure access to all open data on road infrastructure, road traffic, public transport and mobility services through one single point.
 The portal includes descriptions (metadata) and links to data on road infrastructure, road status, incidents, travel times, public transport stops, routes and schedules, traffic information, warnings and mobility services like city bikes and new micro mobility.</description>
     </item>
     
     <item>
       <title>GDPR and Data Protection</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/write/gdpr/</link>
+      <link>https://vegvesen.github.io/nap-help/en/write/gdpr/</link>
       <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/write/gdpr/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/write/gdpr/</guid>
       <description>All data linked to from the portal are to follow med General Data Protection Regulations (GDPR). It shall not be possible to extract personal data from any set of data.
   More information about GDPR  </description>
     </item>
     
     <item>
       <title>Declaration of Compliance</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/write/conform/</link>
+      <link>https://vegvesen.github.io/nap-help/en/write/conform/</link>
       <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/write/conform/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/write/conform/</guid>
       <description>Data and service providers that share their data and services via the portal must follow the requirements of the delegated regulations related to declaration of compliance. For delegated regulation 886/2013 on provision of safety related information the data and service provider shall submit a self-declaration of compliance to The Road Supervisory Authority. For the regulations 962/2015 on provision of real time traffic data and 1926/2017 the practical procedures will be decided.</description>
     </item>
     
     <item>
       <title>Data in NAP</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/read/data/</link>
+      <link>https://vegvesen.github.io/nap-help/en/read/data/</link>
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/read/data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/read/data/</guid>
       <description>The portal contains mainly data and services required by the delegated regulations under the ITS Directive. For example:
  Traffic information about incidents, travels time, road weather and driving conditions Static data about the road network Public transport services and real time information Public transport stops and terminals Data on traffic on the road network Information about parking facilities Data about «new micro mobility services» like city bikes, electric scooters etc.</description>
     </item>
     
     <item>
       <title>Add data to NAP</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/write/add-data/</link>
+      <link>https://vegvesen.github.io/nap-help/en/write/add-data/</link>
       <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/write/add-data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/write/add-data/</guid>
       <description>Engelsk
 NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
  via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
@@ -84,10 +84,10 @@ NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun meta
     
     <item>
       <title>Where do I find the data?</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/read/what/</link>
+      <link>https://vegvesen.github.io/nap-help/en/read/what/</link>
       <pubDate>Sun, 18 Aug 2019 12:23:00 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/read/what/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/read/what/</guid>
       <description>You will find the sets of available data in the data catalogue of the portal. The portal contains only metadata describing the actual data and how to find them. The data sources are as a rule located elsewhere, and the metadata therefore contains the links to access the transport data. </description>
     </item>
     

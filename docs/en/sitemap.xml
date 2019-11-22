@@ -3,182 +3,182 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/</loc>
+    <loc>https://vegvesen.github.io/nap-help/en/</loc>
     <lastmod>2019-11-20T19:33:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/"
+                href="https://vegvesen.github.io/nap-help/no/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/"
+                href="https://vegvesen.github.io/nap-help/en/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/gen/roles/</loc>
+    <loc>https://vegvesen.github.io/nap-help/en/gen/roles/</loc>
     <lastmod>2019-11-20T19:33:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/gen/roles/"
+                href="https://vegvesen.github.io/nap-help/no/gen/roles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/gen/roles/"
+                href="https://vegvesen.github.io/nap-help/en/gen/roles/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/gen/its/</loc>
-    <lastmod>2019-09-26T11:42:44+02:00</lastmod>
+    <loc>https://vegvesen.github.io/nap-help/en/gen/its/</loc>
+    <lastmod>2019-11-21T15:04:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/gen/its/"
+                href="https://vegvesen.github.io/nap-help/no/gen/its/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/gen/its/"
+                href="https://vegvesen.github.io/nap-help/en/gen/its/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/gen/about/</loc>
-    <lastmod>2019-11-04T16:51:44+01:00</lastmod>
+    <loc>https://vegvesen.github.io/nap-help/en/gen/about/</loc>
+    <lastmod>2019-11-21T15:04:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/gen/about/"
+                href="https://vegvesen.github.io/nap-help/no/gen/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/gen/about/"
+                href="https://vegvesen.github.io/nap-help/en/gen/about/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/write/gdpr/</loc>
-    <lastmod>2019-11-05T12:53:09+01:00</lastmod>
+    <loc>https://vegvesen.github.io/nap-help/en/write/gdpr/</loc>
+    <lastmod>2019-11-21T15:04:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/write/gdpr/"
+                href="https://vegvesen.github.io/nap-help/no/write/gdpr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/write/gdpr/"
+                href="https://vegvesen.github.io/nap-help/en/write/gdpr/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/write/conform/</loc>
-    <lastmod>2019-09-23T07:48:42+02:00</lastmod>
+    <loc>https://vegvesen.github.io/nap-help/en/write/conform/</loc>
+    <lastmod>2019-11-21T15:04:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/write/conform/"
+                href="https://vegvesen.github.io/nap-help/no/write/conform/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/write/conform/"
+                href="https://vegvesen.github.io/nap-help/en/write/conform/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/read/data/</loc>
-    <lastmod>2019-09-11T12:23:40+02:00</lastmod>
+    <loc>https://vegvesen.github.io/nap-help/en/read/data/</loc>
+    <lastmod>2019-11-21T15:04:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/read/data/"
+                href="https://vegvesen.github.io/nap-help/no/read/data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/read/data/"
+                href="https://vegvesen.github.io/nap-help/en/read/data/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/write/add-data/</loc>
+    <loc>https://vegvesen.github.io/nap-help/en/write/add-data/</loc>
     <lastmod>2019-09-05T18:47:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/write/add-data/"
+                href="https://vegvesen.github.io/nap-help/no/write/add-data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/write/add-data/"
+                href="https://vegvesen.github.io/nap-help/en/write/add-data/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/read/what/</loc>
-    <lastmod>2019-09-05T18:47:42+02:00</lastmod>
+    <loc>https://vegvesen.github.io/nap-help/en/read/what/</loc>
+    <lastmod>2019-11-21T15:04:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/read/what/"
+                href="https://vegvesen.github.io/nap-help/no/read/what/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/read/what/"
+                href="https://vegvesen.github.io/nap-help/en/read/what/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/gen/</loc>
+    <loc>https://vegvesen.github.io/nap-help/en/gen/</loc>
     <lastmod>2019-09-20T19:50:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/gen/"
+                href="https://vegvesen.github.io/nap-help/no/gen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/gen/"
+                href="https://vegvesen.github.io/nap-help/en/gen/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/read/</loc>
+    <loc>https://vegvesen.github.io/nap-help/en/read/</loc>
     <lastmod>2019-09-05T18:47:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/read/"
+                href="https://vegvesen.github.io/nap-help/no/read/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/read/"
+                href="https://vegvesen.github.io/nap-help/en/read/"
                 />
   </url>
   
   <url>
-    <loc>https://transportportal.utv.atlas.vegvesen.no/en/write/</loc>
+    <loc>https://vegvesen.github.io/nap-help/en/write/</loc>
     <lastmod>2019-09-05T18:47:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://transportportal.utv.atlas.vegvesen.no/no/write/"
+                href="https://vegvesen.github.io/nap-help/no/write/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://transportportal.utv.atlas.vegvesen.no/en/write/"
+                href="https://vegvesen.github.io/nap-help/en/write/"
                 />
   </url>
   
