@@ -4,6 +4,10 @@ date: 2019-11-15T10:21:00+02:00
 draft: false
 aliases: "/about/"
 ---
+{{< figure src="/images/19-0263-Trafikksikkerhetsplan_500.jpg" alt="Statens vegvesen"
+    class="imgresponsive" width="400" attr="*Illustration: Martin Blystad, Statens vegvesen*">}}
+
+## Welcome to Norway’s National Access Point for transport data
 
 {{< napdict "portalName" >}} is the National Access Point (NAP) for transport data in Norway. The portal is established to secure access to all open data on road infrastructure, road traffic, public transport and mobility services through one single point.
 

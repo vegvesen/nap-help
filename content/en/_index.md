@@ -5,11 +5,6 @@ date: 2019-11-20T15:21:00+02:00
 draft: false
 ---
 
-{{< figure src="/images/19-0263-Trafikksikkerhetsplan_500.jpg" alt="Statens vegvesen"
-    class="imgresponsive" width="400" attr="*Illustration: Martin Blystad, Statens vegvesen*">}}
-
-## Welcome to Norway’s National Access Point for transport data
-
 This portal’s data catalogue gives you descriptions and links to data sets and services with information on road status, incidents, public transport, schedules and much more.
 
 All data sets are open and available for re-use and as source for your own services.
