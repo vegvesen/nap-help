@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>Add data</title>
+      <link>https://vegvesen.github.io/nap-help/en/write/add-data/</link>
+      <pubDate>Fri, 22 Nov 2019 06:49:25 +0200</pubDate>
+      
+      <guid>https://vegvesen.github.io/nap-help/en/write/add-data/</guid>
+      <description>The National Access Point does not contain the data itself or the services that are made available for re-use, but only the metadata describing them. As part of the metadata you will find links to the underlying services and the sets of data that can be accessed.
+Publish metadata Metadata can be published in two ways:
+ By automatic harvest from a data portal in your own organization
+ This is a good alternative for organizations already having a data portal where they publsih their open data and services.</description>
+    </item>
+    
+    <item>
       <title>Roles and Responsibility</title>
       <link>https://vegvesen.github.io/nap-help/en/gen/roles/</link>
       <pubDate>Wed, 20 Nov 2019 11:54:59 +0200</pubDate>
@@ -70,17 +82,6 @@ The portal includes descriptions (metadata) and links to data on road infrastruc
       <guid>https://vegvesen.github.io/nap-help/en/read/data/</guid>
       <description>The portal contains mainly data and services required by the delegated regulations under the ITS Directive. For example:
  Traffic information about incidents, travels time, road weather and driving conditions Static data about the road network Public transport services and real time information Public transport stops and terminals Data on traffic on the road network Information about parking facilities Data about «new micro mobility services» like city bikes, electric scooters etc.</description>
-    </item>
-    
-    <item>
-      <title>Add data to NAP</title>
-      <link>https://vegvesen.github.io/nap-help/en/write/add-data/</link>
-      <pubDate>Tue, 20 Aug 2019 06:49:25 +0200</pubDate>
-      
-      <guid>https://vegvesen.github.io/nap-help/en/write/add-data/</guid>
-      <description>Engelsk
-NAP inneholder ikke selve datasettene som skal tilgjengeliggjøres, men kun metadata for disse. Innlegging av metadata kan skje på to måter:
- via automatisk høsting av metadata fra egen portal via direkte innlegging av metadata via webskjema  </description>
     </item>
     
     <item>
