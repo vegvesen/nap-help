@@ -5,13 +5,13 @@
     "route": {
       "type": "Route",
       "spec": {
-        "hostname": "transportportal.utv.atlas.vegvesen.no"
+        "hostname": "transport-blue.atlas.vegvesen.no"
       }
     },
     "image": {
       "type": "GavImageDescriptor",
       "spec": {
-        "version": "v0.9.3"
+        "version": "v0.9.6"
       }
     }
   }

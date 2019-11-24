@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
-    <link>https://vegvesen.github.io/nap-help/en/gen/</link>
+    <link>https://transportportal.atlas.vegvesen.no/en/gen/</link>
     <description>Recent content on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://vegvesen.github.io/nap-help/en/gen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://transportportal.atlas.vegvesen.no/en/gen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roles and Responsibility</title>
-      <link>https://vegvesen.github.io/nap-help/en/gen/roles/</link>
+      <link>https://transportportal.atlas.vegvesen.no/en/gen/roles/</link>
       <pubDate>Wed, 20 Nov 2019 11:54:59 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/gen/roles/</guid>
+      <guid>https://transportportal.atlas.vegvesen.no/en/gen/roles/</guid>
       <description>Statens vegvesen (Norwegian Public Roads Administration – NPRA) NPRA is the responsible authority for establishing the National Access Point and is responsible for management and use of the solution (transportportal.no). NPRA has also the responsibility for support and other issues related to the portal. See contact data at the bottom of each page.
 Entur Entur has the mandate to collect, adapt and coordinate travel data from all public transport companies in Norway, in such a way that all travelers may have access to the complete public transport supply in a uniform and standardized way.</description>
     </item>
     
     <item>
       <title>ITS Directive and Delegated Regulations</title>
-      <link>https://vegvesen.github.io/nap-help/en/gen/its/</link>
+      <link>https://transportportal.atlas.vegvesen.no/en/gen/its/</link>
       <pubDate>Wed, 20 Nov 2019 10:34:05 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/gen/its/</guid>
+      <guid>https://transportportal.atlas.vegvesen.no/en/gen/its/</guid>
       <description>The ITS Directive of the EU (2010/40/EU) instructs the EU member states- and Norway as part of the EEA agreement – to establish a National Access Point (NAP) to make open road and transport data available. The purpose is to achieve continuous and interoperable services in Europe.
 The ITS Directive gives the EU Commission the authority to define delegated regulations with detailed specifications:
  Delegated regulation 885/2013 – Information services for safe and secure parking (no official service started in Norway yet) Delegated regulation 886/2013 – on the provision, where possible, of road safety-related minimum universal traffic information free of charge to users (SRTI) Delegated regulation 962/2015 - on the provision of EU-wide real-time traffic information services (RTTI) Delegated regulation 1926/2017 - on EU-wide multimodal travel information services (MMTI) (under legal implementation in Norway)   </description>
@@ -33,10 +33,10 @@ The ITS Directive gives the EU Commission the authority to define delegated regu
     
     <item>
       <title>Information about the portal</title>
-      <link>https://vegvesen.github.io/nap-help/en/gen/about/</link>
+      <link>https://transportportal.atlas.vegvesen.no/en/gen/about/</link>
       <pubDate>Fri, 15 Nov 2019 10:21:00 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/gen/about/</guid>
+      <guid>https://transportportal.atlas.vegvesen.no/en/gen/about/</guid>
       <description>Illustration: Martin Blystad, Statens vegvesen
   Welcome to Norway’s National Access Point for transport data Transportportal.nois the National Access Point (NAP) for transport data in Norway. The portal is established to secure access to all open data on road infrastructure, road traffic, public transport and mobility services through one single point.
 The portal includes descriptions (metadata) and links to data on road infrastructure, road status, incidents, travel times, public transport stops, routes and schedules, traffic information, warnings and mobility services like city bikes and new micro mobility.</description>

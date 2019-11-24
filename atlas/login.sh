@@ -1,17 +1,21 @@
 #!/bin/bash
 
-# Assumes parameters: redeploy.sh ${ATLAS_USR} ${ATLAS_PSW}
+# Assumes parameters: login.sh [${ATLAS_USR} ${ATLAS_PSW}]
+
 ATLAS_USR=${1}
 ATLAS_PSW=${2}
 
-echo "Logging in"
-LOGIN=`/c/Programfiler/Atlas/bin/ac.exe login --refresh`
-#LOGIN=`~/bin/ac login --refresh`
+source env.sh
+
+LOGIN=`${AC} login --refresh`
+
+echo -n "Logging in .. "
+
 echo "${LOGIN}"
 
-if [[ "${LOGIN}" != "Login to Atlas successful." ]]; then
+if [[ "${LOGIN}" != "Login successful." ]]; then
     echo "Could not refresh, login again"
-    LOGIN=`/c/Programfiler/Atlas/bin/ac.exe login https://atlas-api.atlas.vegvesen.no/api --username ${ATLAS_USR} --password ${ATLAS_PSW}`
+    LOGIN=`${AC} login ${API} --username ${ATLAS_USR} --password ${ATLAS_PSW}`
     echo "${LOGIN}"
     echo "----------"
 fi

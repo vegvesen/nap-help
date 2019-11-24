@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
-    <link>https://vegvesen.github.io/nap-help/en/write/</link>
+    <link>https://transportportal.atlas.vegvesen.no/en/write/</link>
     <description>Recent content on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://vegvesen.github.io/nap-help/en/write/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://transportportal.atlas.vegvesen.no/en/write/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Add data</title>
-      <link>https://vegvesen.github.io/nap-help/en/write/add-data/</link>
+      <link>https://transportportal.atlas.vegvesen.no/en/write/add-data/</link>
       <pubDate>Fri, 22 Nov 2019 06:49:25 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/write/add-data/</guid>
+      <guid>https://transportportal.atlas.vegvesen.no/en/write/add-data/</guid>
       <description>The National Access Point does not contain the data itself or the services that are made available for re-use, but only the metadata describing them. As part of the metadata you will find links to the underlying services and the sets of data that can be accessed.
 Publish metadata Metadata can be published in two ways:
  By automatic harvest from a data portal in your own organization
@@ -24,20 +24,20 @@ Publish metadata Metadata can be published in two ways:
     
     <item>
       <title>GDPR and Data Protection</title>
-      <link>https://vegvesen.github.io/nap-help/en/write/gdpr/</link>
+      <link>https://transportportal.atlas.vegvesen.no/en/write/gdpr/</link>
       <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/write/gdpr/</guid>
+      <guid>https://transportportal.atlas.vegvesen.no/en/write/gdpr/</guid>
       <description>All data linked to from the portal are to follow med General Data Protection Regulations (GDPR). It shall not be possible to extract personal data from any set of data.
   More information about GDPR  </description>
     </item>
     
     <item>
       <title>Declaration of Compliance</title>
-      <link>https://vegvesen.github.io/nap-help/en/write/conform/</link>
+      <link>https://transportportal.atlas.vegvesen.no/en/write/conform/</link>
       <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
       
-      <guid>https://vegvesen.github.io/nap-help/en/write/conform/</guid>
+      <guid>https://transportportal.atlas.vegvesen.no/en/write/conform/</guid>
       <description>Data and service providers that share their data and services via the portal must follow the requirements of the delegated regulations related to declaration of compliance. For delegated regulation 886/2013 on provision of safety related information the data and service provider shall submit a self-declaration of compliance to The Road Supervisory Authority. For the regulations 962/2015 on provision of real time traffic data and 1926/2017 the practical procedures will be decided.</description>
     </item>
     
