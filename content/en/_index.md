@@ -5,7 +5,7 @@ date: 2019-11-20T15:21:00+02:00
 draft: false
 ---
 
-This portal’s data catalogue gives you descriptions and links to data sets and services with information on road status, incidents, public transport, schedules and much more.
+This [portal’s data catalogue]({{< napdict fkkat_URL >}})  gives you descriptions and links to data sets and services with information on road status, incidents, public transport, schedules and much more.
 
 All data sets are open and available for re-use and as source for your own services.
 
@@ -13,6 +13,6 @@ All public and private organizations in Norway owning data sets or offering serv
 
 All European countries are obliged to set up such a national access point to facilitate continuous information services for transport – in line with [the ITS Directive of the European Union]({{< ref "ITS.md" >}}).
 
-{{< figure src="/images//18-0354-Knutepunkt_500.jpg" alt="Statens vegvesen"
+{{< figure src="/images/18-0354-Knutepunkt_500.jpg" alt="Statens vegvesen"
     class="imgresponsive" width="400" attr="*Illustration: Jon Opseth, Statens vegvesen*">}}
  

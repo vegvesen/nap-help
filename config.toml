@@ -1,6 +1,5 @@
+# baseURL will be overrided by env specific config.toml
 baseURL = "https://vegvesen.github.io/nap-help/"
-#baseURL = "https://transportportal.utv.atlas.vegvesen.no"
-lastmod = ["lastmod", ":fileModTime"]
 relativeURLs = "true"
 languageCode = "no"
 defaultContentLanguage = "no"
