@@ -2,6 +2,14 @@
 
 # Common env settings
 
+# Hugo binary
+HUGO="/C/Data/Hugo/bin/hugo.exe"
+# Hugo root
+HUGO_ROOT="/C/Data/Hugo/sites/nap-help"
+# Hugo docroot relative to project root
+HUGO_DOCS="docs"
+# Atlas config relative to project docroot
+ATLAS_CONFIG="atlas"
 # IKT-løsning
 IKT="napt"
 # ac binary
