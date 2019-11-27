@@ -28,8 +28,9 @@ Publish metadata Metadata can be published in two ways:
       <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
       
       <guid>https://transportportal.atlas.vegvesen.no/en/write/gdpr/</guid>
-      <description>All data linked to from the portal are to follow med General Data Protection Regulations (GDPR). It shall not be possible to extract personal data from any set of data.
-  More information about GDPR  </description>
+      <description>All data linked to from the portal must comply with the General Data Protection Regulations (GDPR) from EU. It shall not be possible to extract personal data from any data set.
+ Illustrasjon: Trond Foss, Sintef
+   More information about GDPR  </description>
     </item>
     
     <item>

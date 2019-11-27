@@ -34,10 +34,10 @@ fractions = "false"
 [params]
   author = "Statens vegvesen"
   introDescription = "Intro"
-  contactEmail = "transportportal@vegvesen.no"
+  contactEmail = "kontakt@transportportal.no"
   [params.img]
-     imgauthor = "E39 Svegatjørn-Rådal,  Knut Opeide"
-     background_image = "images/E39.jpg"
+     imgauthor = "Jon Opseth, Statens vegvesen"
+     background_image = "images/NAP-forside.jpg"
 
 [blackfriday]
   angledQuotes = true

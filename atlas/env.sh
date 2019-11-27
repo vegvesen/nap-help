@@ -31,6 +31,8 @@ DPL_PREFIX="transport"
 ARTREPO_KEYFILE=".artrepo.key"
 # Repo
 ARTREPO_REPO="webcontent-release-local"
+# Atlas dispatcher 
+DISPATCHER="napt-dispatcher"
 
 function fortsett(){
   prompt="$1 - continue? [yn] ";

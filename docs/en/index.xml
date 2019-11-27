@@ -51,7 +51,7 @@ The ITS Directive gives the EU Commission the authority to define delegated regu
       
       <guid>https://transportportal.atlas.vegvesen.no/en/gen/about/</guid>
       <description>Illustration: Martin Blystad, Statens vegvesen
-  Welcome to Norway’s National Access Point for transport data Transportportal.nois the National Access Point (NAP) for transport data in Norway. The portal is established to secure access to all open data on road infrastructure, road traffic, public transport and mobility services through one single point.
+  Welcome to Norway’s National Access Point for transport data transportportal.nois the National Access Point (NAP) for transport data in Norway. The portal is established to secure access to all open data on road infrastructure, road traffic, public transport and mobility services through one single point.
 The portal includes descriptions (metadata) and links to data on road infrastructure, road status, incidents, travel times, public transport stops, routes and schedules, traffic information, warnings and mobility services like city bikes and new micro mobility.</description>
     </item>
     
@@ -61,8 +61,9 @@ The portal includes descriptions (metadata) and links to data on road infrastruc
       <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
       
       <guid>https://transportportal.atlas.vegvesen.no/en/write/gdpr/</guid>
-      <description>All data linked to from the portal are to follow med General Data Protection Regulations (GDPR). It shall not be possible to extract personal data from any set of data.
-  More information about GDPR  </description>
+      <description>All data linked to from the portal must comply with the General Data Protection Regulations (GDPR) from EU. It shall not be possible to extract personal data from any data set.
+ Illustrasjon: Trond Foss, Sintef
+   More information about GDPR  </description>
     </item>
     
     <item>

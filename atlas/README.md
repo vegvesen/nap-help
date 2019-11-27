@@ -8,7 +8,7 @@ ____
 ### Viktige andre ting å legge merke til:
 
 + Det er kun satt opp to Atlas appmiljøer, "utvikling" og "produksjon" -  ikke behov for atm her, siden "testing" av hjelpesidene først foregår ved localhost preview av de genererte sidene som lages vha [Hugo](https://gohugo.io/). Dette kan ses på som motsvarende enhetstesting. "Integrasjonstesten" gjøres da ved å lage et bygg og kjøre opp et deploy mot "utvikling" (transportportal.utv.vegvesen.no)
-+ Byggene blir desverre miljøavhengige siden Hugo legger [baseURL](../config.toml) inn i den genererte HTML koden, og en gzip av den genererte koden er jo nettop artifakten som brukes av bygget for å lage appimage
++ Byggene blir desverre miljøavhengige siden Hugo legger [baseURL](../config/_default/config.toml) inn i den genererte HTML koden, og en gzip av den genererte koden er jo nettopp artifakten som brukes av bygget for å lage appimage
 + Atlas deployene er satt opp for enkelt å kunne gjøre [blue/green deploy](https://atlas-docs.atlas.vegvesen.no/atlas-dokumentasjon/latest/eksempler/bluegreen_deploy.html). Det betyr at endepunktet transportportal.atlas.vegvesen.no "eies" av en dispatcher som peker ut det underliggende deployet som til enhver tid skal være kjørende.
 + I begge app-miljøene heter deployene **transport-blue** og **transport-green**
 
@@ -60,4 +60,4 @@ Prosessen beskrevet over er skriptet via sh-skriptene som ligger på denne katal
 
 1. Kjør `hugo.sh <utvikling|produksjon>` fra Atlas katalogen. Nye sider er nå på "docs" katalogen
 2. Start `./artrepo.sh <versjonsnr> <miljø>` - med samme miljønavn som "hugo" ble kjørt med. Skriptet bygger artefakt med navn `napt-versjonsnr-miljø.tar.gz`og laster opp til Artefactory. Merk at skriptet benytter personlig token (apikey) for autentisering mot Artefactory. Denne antas å ligge på en fil i Atlas katalogen, og skal *ikke* med i GIT repoet
-3. Start `./build.sh <versjonsnr>`. Her lages et Atlas bygg av det artefaktet som ble lastet opp - gitt samme <versjonsnr>
+3. Start `./build.sh <versjonsnr>`. Her lages et Atlas bygg av det artefaktet som ble lastet opp - gitt samme versjonsnr som argument.

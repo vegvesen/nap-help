@@ -7,7 +7,7 @@ draft: false
 
 Alle datasettene som portalen lenker til skal være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.
 
-{{< figure data-author="Trond Foss" src="/images/Personvern.jpg" alt="Personvern - figur Trond Foss"
+{{< figure attr="*Illustrasjon: Trond Foss, Sintef*" src="/images/Personvern.jpg" alt="Personvern - figur Trond Foss"
     class="imgresponsive" height="200" >}}
 
 For mer informasjon om GDPR se

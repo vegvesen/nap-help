@@ -9,8 +9,11 @@ draft: false
 ## Statens vegvesen
 [Statens vegvesen](https://www.vegvesen.no/) har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvaltning av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
 
+Fra 1.1.2020 vil fylkene ha ansvar for å levere veg- og transportdata til Statens vegvesen. Statens vegvesen legger metadata om datasettene i Transportportal.no.
+
+
 ## Entur
-[Entur](https://www.entur.org/) har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte.
+[Entur](https://www.entur.org/) har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte. Fylkene, administrasjonsselskaper og private kollektivaktører leverer sine data til Entur. Entur legger metadata om datasettene i Transportportal.no.
 
 ## Brønnøysundregistrene
  Transportportal.no inngår som en del av [«Felles datakatalog for Norge»](https://fellesdatakatalog.brreg.no/), og driftes av [Brønnøysundregistrene](https://www.brreg.no/).

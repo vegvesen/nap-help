@@ -32,5 +32,3 @@ Transportportal.no is included as a dedicated part of [«The National Data Catal
         class="naplogo" height="50" link="https://www.jernbanedirektoratet.no/">}}
 {{< figure src="/images/vegtilsynet.jpg" alt="Vegtilsynet"
         class="naplogo" height="80" link="https://vegtilsynet.com/">}}
-
-{{< lastupdate >}}

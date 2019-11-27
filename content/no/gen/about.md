@@ -6,10 +6,6 @@ draft: false
 aliases: [/no/about/]
 ---
 
-{{< figure src="/images/19-0263-Trafikksikkerhetsplan_500.jpg" alt="Statens vegvesen"
-    class="imgresponsive" width="400" attr="*Illustrasjon: Martin Blystad, Statens vegvesen*">}}
-
-
 {{< napdict "portalName" >}}  er det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen er opprettet for å ha tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.
 
 Portalen inneholder data om blant annet veg, vegstatus, hendelser, reisetider, kollektivruter, rutetider, informasjon, varsling og mobilitetstjenester som bysykler. Disse dataene kan brukes til å lage egne tjenester. Man kan og kombinere data fra ulike datasett til å lage nye, fremtidsrettede, gode mobilitetstjenester rettet mot alle trafikanter.
@@ -21,6 +17,8 @@ Portalen inneholder kun metadata om datasettet. Datakildene er plassert hos hver
 
 Datasett beskrevet i portalen skal fortrinnsvis være gratis å bruke, men det er åpnet for at dataeier kan ta et vederlag for noen typer data.
 Både offentlige og private virksomheter er forventet å bidra med datasett til portalen, og dette vil kunne være virksomheter som er vegeiere, opererer transport- og mobilitetstjenester så vel som formidlere av trafikkinformasjon.
+
+{{< youtube uTgb5ogpw64 >}}
 
 
 

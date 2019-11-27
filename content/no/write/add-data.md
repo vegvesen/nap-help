@@ -17,7 +17,7 @@ Innlegging av metadata kan skje på to måter:
  + Via direkte innlegging av metadata via webskjema
   + Her bruker man [Brønnøysundregistrenes registreringsløsning](https://fellesdatakatalog.brreg.no/about-registration), men du må ha en [rolle i Altinn](https://www.altinn.no/hjelp/profil/roller-og-rettigheter/) som angir at du kan registrere metadata på vegne av din organisasjon. Dette må settes opp  av noen i din organisasjon som har tilgang til å tilordne roller i Altinn. Når du siden logger inn i registreringsløsningen blir du først autentisert via [IDporten](http://eid.difi.no/nb/id-porten), hvorpå dine eventuelle roller i Altinn blir sjekket.  Hvis du har roller på vegne av minst en – evt flere organisasjoner – får du anledning til å velge organisasjonen du vil registrere for og kan gå videre med registrering.
 
-+ [Se også vår utfyllende forklaring her](/assets/RegData.pdf).
+   + [Se også vår utfyllende forklaring her](/assets/RegData.pdf).
 
 ## Metadatastandard - DCAT-AP
 
