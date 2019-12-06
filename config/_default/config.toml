@@ -37,7 +37,7 @@ fractions = "false"
   contactEmail = "kontakt@transportportal.no"
   [params.img]
      imgauthor = "Jon Opseth, Statens vegvesen"
-     background_image = "images/NAP-forside.jpg"
+     background_image = "images/NAP-forside-ny.jpg"
 
 [blackfriday]
   angledQuotes = true

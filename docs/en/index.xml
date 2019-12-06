@@ -91,7 +91,8 @@ The portal includes descriptions (metadata) and links to data on road infrastruc
       <pubDate>Sun, 18 Aug 2019 12:23:00 +0200</pubDate>
       
       <guid>https://transportportal.atlas.vegvesen.no/en/read/what/</guid>
-      <description>You will find the sets of available data in the data catalogue of the portal. The portal contains only metadata describing the actual data and how to find them. The data sources are as a rule located elsewhere, and the metadata therefore contains the links to access the transport data. </description>
+      <description>You will find the sets of available data in the data catalogue of the portal. The portal contains only metadata describing the actual data and how to find them. The data sources are as a rule located elsewhere, and the metadata therefore contains the links to access the transport data. Note:
+Dec 5, 19: Some people experience difficulties if they use Edge or Internet Explorer when they click on some data sets in the data catalogue.</description>
     </item>
     
   </channel>
