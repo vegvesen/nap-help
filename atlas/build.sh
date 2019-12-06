@@ -26,8 +26,11 @@ APPENV_VERSION="${VERSION}-${APPENV}"
 QUOTED_VERSION="'$APPENV_VERSION'"
 QUOTED_GROUP_ID="'$GROUP_ID'"
 
-DESCR="'Ny versjon ${VERSION} av ${IKT} hjelpesider'"
+QUOTED_DESCR="'Ny versjon ${VERSION} av ${IKT} hjelpesider'"
 
 fortsett "Creating new Atlas build of type $BUILD_TYPE, artefact version will be $APPENV_VERSION"
 
-echo "${AC} create build ${BUILD_TYPE} -g ${QUOTED_GROUP_ID} -a ${ARTIFACT_ID} -v ${QUOTED_VERSION} -d ${DESCR} -p ${PACKET_TYPE}"
+# Echo
+echo "ac create build ${BUILD_TYPE} -g ${QUOTED_GROUP_ID} -a ${ARTIFACT_ID} -v ${QUOTED_VERSION} -d ${QUOTED_DESCR} -p ${PACKET_TYPE}"
+# Try
+${AC} create build ${BUILD_TYPE} -g ${QUOTED_GROUP_ID} -a ${ARTIFACT_ID} -v ${QUOTED_VERSION} -d ${QUOTED_DESCR} -p ${PACKET_TYPE}

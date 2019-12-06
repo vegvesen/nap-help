@@ -52,11 +52,11 @@ $ ac modify dispatcher napt-dispatcher \
    -E transport-blue \
    -w 100
 ```
-"Blue" og "Green" bytter dermed rolle mellom hver relase.
+"blue" og "green" bytter dermed rolle mellom hvert deploy.
 
 ### Skripting av redeploy
 
-Prosessen beskrevet over er skriptet via sh-skriptene som ligger på denne katalogen. De kan startes et og et, eller kjøres i kjede via redeploy.sh. Sekvensen er:
+Prosessen beskrevet over er skriptet via sh-skriptene som ligger på denne katalogen. De kan startes et og et, eller kjøres i kjede via *redeploy.sh*. Sekvensen er:
 
 1. Kjør `hugo.sh <utvikling|produksjon>` fra Atlas katalogen. Nye sider er nå på "docs" katalogen
 2. Start `./artrepo.sh <versjonsnr> <miljø>` - med samme miljønavn som "hugo" ble kjørt med. Skriptet bygger artefakt med navn `napt-versjonsnr-miljø.tar.gz`og laster opp til Artefactory. Merk at skriptet benytter personlig token (apikey) for autentisering mot Artefactory. Denne antas å ligge på en fil i Atlas katalogen, og skal *ikke* med i GIT repoet

@@ -34,6 +34,7 @@ else
      exit;
 fi
 
+SEDTMP="/tmp/sed.tmp"
 PRIMARY_DEPLOYMENT="${DPL_PREFIX}-${COLOR}"
 fortsett "New primary deployment: ${PRIMARY_DEPLOYMENT}, current deployment ${SECONDARY_DEPLOYMENT}"
 
@@ -41,15 +42,37 @@ echo "-- "
 ${AC} get dispatcher -e $APPENV
 echo "-- "
 
-fortsett "Make sure the new primary deployment has weight 0% above or not in use"
+fortsett "Make sure the new primary deployment has weight 0% above or not in use. If so, we can modify the dispatcher not use this deploy"
 
-echo "${AC} modify dispatcher ${DISPATCHER} -e ${APPENV} -E ${SECONDARY_DEPLOYMENT} -w 100 -i $IKT"
+# Echo command first
+echo "ac modify dispatcher ${DISPATCHER} -e ${APPENV} -E ${SECONDARY_DEPLOYMENT} -w 100 -i $IKT"
+# Do it
+${AC} modify dispatcher ${DISPATCHER} -e ${APPENV} -E ${SECONDARY_DEPLOYMENT} -w 100 -i $IKT
 
-fortsett "Delete deploy ${PRIMARY_DEPLOYMENT}, update dpldesc and create new deploy?"
+# Delete the old deploy
+fortsett "Delete deploy ${PRIMARY_DEPLOYMENT}, update dpldesc with sed and create new deploy?"
 
-echo "${AC} delete deploy -e ${APPENV}  ${PRIMARY_DEPLOYMENT}  -i $IKT"
-echo " sed -i 's/version.*/version\": \"${VERSION}-${APPENV}\"/' ${APPENV}/${PRIMARY_DEPLOYMENT}.json"
-echo "${AC} create deploy -e ${APPENV}  ${PRIMARY_DEPLOYMENT}  -i $IKT"
+# Echo
+echo "ac delete deploy -e ${APPENV}  ${PRIMARY_DEPLOYMENT}  -i $IKT"
+# Do it
+${AC} delete deploy -e ${APPENV}  ${PRIMARY_DEPLOYMENT}  -i $IKT
+echo "s/version.*/version\": \"$VERSION-$APPENV\"/" > $SEDTMP
+sed -f $SEDTMP -i ${APPENV}/${PRIMARY_DEPLOYMENT}.json
+rm $SEDTMP
+# New deploy
+# Echo
+echo "ac create deploy -e ${APPENV}  ${PRIMARY_DEPLOYMENT}  -i $IKT"
+# Do it
+${AC} create deploy -e ${APPENV}  ${PRIMARY_DEPLOYMENT}  -i $IKT
+echo  "Waiting ~20 sec to see status for new deploy"
+sleep 20
+${AC} status
 
+# Mod dispatcher to use new
 fortsett "Modify dispatcher ${DISPATCHER} in env ${APPENV} to use new deploy?"
-echo "${AC} modify dispatcher ${DISPATCHER} -e ${APPENV} -E ${PRIMARY_DEPLOYMENT} -w 100 -E ${SECONDARY_DEPLOYMENT} -w 0 -i $IKT"
+# Echo
+echo "ac modify dispatcher ${DISPATCHER} -e ${APPENV} -E ${PRIMARY_DEPLOYMENT} -w 100 -E ${SECONDARY_DEPLOYMENT} -w 0 -i $IKT"
+# Do it
+${AC} modify dispatcher ${DISPATCHER} -e ${APPENV} -E ${PRIMARY_DEPLOYMENT} -w 100 -E ${SECONDARY_DEPLOYMENT} -w 0 -i $IKT
+
+# DONE

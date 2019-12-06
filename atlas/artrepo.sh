@@ -37,5 +37,5 @@ fortsett "Uploading artefact $FILE to Artifactory repo ${ARTREPO_REPO}, group $G
 
 curl -H X-JFrog-Art-Api:${KEY} -T ${FILE} https://artrepo.vegvesen.no/artifactory/${ARTREPO_REPO}/${GROUP}/${ARTIFACT_ID}/
 
-fortsett "Artefact lastet opp, slette fil $FILE?"
+fortsett "Artefact uploaded, delete file $FILE?"
 rm $FILE
