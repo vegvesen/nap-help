@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Assumes parameters: redeploy.sh <version> <appenv> <olor>
+# Assumes parameters: redeploy.sh <version> <appenv> <color>
 
 source env.sh
 

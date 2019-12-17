@@ -26,7 +26,6 @@ tar --gzip -cf $FILE .
 
 cd ${HUGO_ROOT}/${ATLAS_CONFIG}
 
-
 # Artrepo group uses slashes as sep, Atlas/Maven uses "dot"
 GROUP=`echo $GROUP_ID | sed 's/\./\//'`
 

@@ -7,12 +7,4 @@ date: 2019-11-04T12:23:00+02:00
 Datasettene finner du i [portalens datakatalog]({{< napdict "fkkat_URL" >}}). Portalen inneholder kun *metadata* om datasettene, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er plassert et annet sted, og metadataene inneholder linker til disse.
 
 
-**Merk:**
-
-```
-05.12.19: I datakatalogen opplever noen et problem for noen
-datasett ved bruk av nettleserne Edge eller Internet Explorer.
-Inntil videre, benytt en annen nettleser.
-```
-
 {{< lastupdate >}}

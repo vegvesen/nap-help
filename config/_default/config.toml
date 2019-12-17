@@ -17,15 +17,15 @@ fractions = "false"
 
 [languages]
   [languages.no]
-   datacat = "https://nap.fellesdatakatalog.brreg.no/"
+   datacat = "https://data.transportportal.no/"
    datacatText = "Datakatalog"
    contentDir = "content/no"
    title = "transportportal.no"
    weight = 1
 
   [languages.en]
-    datacat = "https://nap.fellesdatakatalog.brreg.no/?lang=en"
-    datacatText = "Data Sets"
+    datacat = "https://data.transportportal.no/?lang=en"
+    datacatText = "Data Catalog"
     title = "transportportal.no"
     contentDir = "content/en"
     weight = 2

@@ -1,2 +1,2 @@
-#baseURL = "https://utv.transportportal.no"
-baseURL = "https://transportportal.utv.atlas.vegvesen.no"
+baseURL = "https://utv.transportportal.no"
+#baseURL = "https://transportportal.utv.atlas.vegvesen.no"
