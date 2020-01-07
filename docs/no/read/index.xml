@@ -17,7 +17,7 @@
       
       <guid>https://transportportal.atlas.vegvesen.no/no/read/what/</guid>
       <description>Datasettene finner du i portalens datakatalog. Portalen inneholder kun metadata om datasettene, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er plassert et annet sted, og metadataene inneholder linker til disse.
-Sist oppdatert: 6. December 2019</description>
+Sist oppdatert: 11. january 2019</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ Sist oppdatert: 6. December 2019</description>
       <guid>https://transportportal.atlas.vegvesen.no/no/read/data/</guid>
       <description>Portalen inneholder hovedsakelig datasett og tjenester som omfattes av ITS-direktivets forordninger, for eksempel:
  Trafikkinformasjon om hendelser, reisetider, vær- og føreforhold Statiske data om vegnettet Rute- og sanntidsinformasjon om kollektivtrafikk Stoppestedsregister for kollektivtrafikk Data om trafikken på vegnettet Informasjon om parkeringsplasser Data om «nye mobilitetsformer» som bysykler, sparkesykler, etc.   For utfyllende informasjon, se ITS direktivet og forordningene.
-Sist oppdatert: 11. November 2019</description>
+Sist oppdatert: 11. january 2019</description>
     </item>
     
   </channel>

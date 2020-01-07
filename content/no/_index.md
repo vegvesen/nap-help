@@ -6,13 +6,14 @@ date: 2019-11-21T10:21:00+02:00
 ## Velkommen til tilgangspunktet for veg- og transportdata for Norge
 I [portalens datakatalog]({{< napdict fkkat_URL >}}) finner du beskrivelser av og lenker til datasett og tjenester om vegstatus, hendelser, reisetider, kollektivtrafikk, rutetider og mye mer.
 
-**Merk:**
 
-```
-05.12.19: I datakatalogen opplever noen et problem for noen
-datasett ved bruk av nettleserne Edge eller Internet Explorer.
-Inntil videre, benytt en annen nettleser.
-```
+
+>**06.01.20 - Merk:**
+>
+>>  - *Datakatalogen er ikke nåbar hvis man benytter eldre versjoner av nettleseren Edge eller Internet Explorer.*
+>>  - *Benytt andre nettlesere, eller Edge i versjon 44.18362.449.0 eller nyere.*
+
+___
 
 Alle datasettene er åpne - bruk dem gjerne for å lage egne tjenester.
 
