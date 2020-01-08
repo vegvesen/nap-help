@@ -1,5 +1,4 @@
 ---
-lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
 title: "Hvor finner jeg data?"
 date: 2019-11-04T12:23:00+02:00
 ---

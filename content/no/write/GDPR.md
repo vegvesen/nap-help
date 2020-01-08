@@ -1,5 +1,4 @@
 ---
-lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
 title: "GDPR og personvern"
 date: 2019-11-05T12:53:09+01:00
 draft: false

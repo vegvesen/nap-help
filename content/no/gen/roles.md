@@ -1,5 +1,4 @@
 ---
-lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
 title: "Roller og ansvar"
 date: 2019-09-20T11:54:59+02:00
 draft: false

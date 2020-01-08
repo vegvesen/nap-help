@@ -1,5 +1,4 @@
 ---
-lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
 title: "Legge inn data"
 date: 2019-07-20T06:49:25+02:00
 draft: false

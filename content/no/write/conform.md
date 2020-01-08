@@ -1,5 +1,4 @@
 ---
-lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
 title: "Samsvarserklæring"
 date: 2019-09-23T07:48:42+02:00
 draft: false
