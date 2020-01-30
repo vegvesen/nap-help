@@ -7,7 +7,7 @@ I [portalens datakatalog]({{< napdict fkkat_URL >}}) finner du beskrivelser av o
 
 
 
->**07.01.20 - Merk:**
+>**09.01.20 - Merk:**
 >
 >>  - *Datakatalogen er ikke nåbar hvis man benytter for gamle versjoner av nettleseren Edge eller Internet Explorer.*
 >>  - *Benytt andre nettlesere, eller Edge i versjon 44.18362.449.0 eller nyere.*
