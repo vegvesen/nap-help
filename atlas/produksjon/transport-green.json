@@ -11,7 +11,7 @@
     "image": {
       "type": "GavImageDescriptor",
       "spec": {
-        "version": "v1.0.6-produksjon"
+        "version": "v1.0.9-produksjon"
       }
     }
   }

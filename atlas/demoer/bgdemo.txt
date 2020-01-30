@@ -1,0 +1,7 @@
+Flg demonstreres:
+
+  1. Sjekk først hvilket deploy som er eksponert (blue eller green)
+  2. Oppretting av nytt deploy - monitorering i Openshift webkonsollet
+  3. Venting til nytt deploy er klart, sjekke status underveis
+  4. Modifisering av dispatcher til KUN å benytte det nye deployet
+  5. Se hvordan dispatcher umiddelbart koples om i Openshift konsollet

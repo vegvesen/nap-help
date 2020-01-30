@@ -1,0 +1,36 @@
+Da skal vi se på et opptak av det som animering av blue/green deploy viste, men nå utført vha Atlas kommandolinjeklienten og med monitorering i Openshift konsollet. For demoens skyld starter vi med å sjekke hvilket av våre to deploy som er koplet til dispatcher og som da sluttbrukerne ser.
+
+<RETURN>
+
+Det gjør vi med "get dispatcher" kommandoen i ac-klienten slik vi ser her.
+(vent litt)
+
+<RETURN>
+
+(uthev transport-blue under endpoints vha musa)
+
+Det er blått deploy som er koplet til dispatcher. Da oppretter vi grønt deploy med kommandoen "create deploy", følg med på hva som skjer i Openshift konsollet.
+
+<RETURN>
+
+(mouseover i konsollet)
+
+Poder opprettes og helsesjekkes, og vi kan følge progresjonen i konsollet. Det kan vi også gjøre med "status" kommandoen i ac-klienten.
+
+<RETURN>
+
+(mouseover på route og status)
+
+Som vi ser, er ikke deployet klart ennå, så vi venter på at de to podene er opprettet, helsesjekket og at hele deployet er tilgjengelig på dispatcherens angitte rute - transportportal.utv.vegvesen.no i dette tilfellet.
+
+(når sleep er gjort - mouseover på route og status igjen)
+
+Da er grønt deploy opprettet og klart og vi kan kople dispatcheren over til dette deployet med "modify dispatcher" kommandoen i ac-klienten.
+
+(gå inn i konsollet og velg routes før endring av dispatcher)
+
+<RETURN>
+<STOPP OPPTAK>
+(mouseover i konsollet på vekt og kakediagram)
+
+Som vi ser er nå det grønne deployet koplet til dispatcherens rute (URL) med vekt 100%. Hvis noen lurer på i hvilke situasjoner man ikke har 100% vekt på deployet her, så er svaret "Canary deployment". Da vil typisk det gamle deployet ha en ganske høy vekt mens det nye (med kanarifuglen) har en lavere vekt, kanskje en 90/10 fordeling. DIspatcheren vil da sørge for at 10% av forespørslene rutes til det nye deployet.

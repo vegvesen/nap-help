@@ -31,11 +31,11 @@ DPL_PREFIX="transport"
 ARTREPO_KEYFILE=".artrepo.key"
 # Repo
 ARTREPO_REPO="webcontent-release-local"
-# Atlas dispatcher 
+# Atlas dispatcher
 DISPATCHER="napt-dispatcher"
 
 function fortsett(){
-  prompt="$1 - continue? [yn] ";
+  prompt="$1 - fortsett? [yn] ";
   read -p "$prompt" svar
   case $svar in
    [Yy])

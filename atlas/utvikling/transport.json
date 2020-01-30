@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "v1",
+  "type": "Deployment",
+  "spec": {
+    "route": {
+      "type": "Route",
+      "spec": {
+        "hostname": "transport.utv.atlas.vegvesen.no"
+      }
+    },
+    "image": {
+      "type": "GavImageDescriptor",
+      "spec": {
+        "version": "v1.0.11-utvikling"
+      }
+    },
+    "vault": {
+      "type": "LocalVault",
+      "spec": {
+        "encryption": {
+          "id": "jkfwc0kYj6qqhvTp1kthMltiEWQbpbTwNo5m8gtdWEc=",
+          "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoG09JJlKg0wrIax9PTYVHgSZLUe3hOiY7hxPygAP90NZQHi3zTThqemOn0k7MgRgPyxTkQuruiOYzssdnzwAAZjwxTL9oH8lzKBAqHfVkdBVTopGCaYc0VZDyWIqjjl7xTOuT8gNmoU1OrLE7Inxsg89DW1DyvL3mOjucMiwbmO3UPQ8noVN9KvFfOaDmEixpeSgva7W3CaogtMwV37WHVqqa0/fMy9mJVifVnDI4C5vMiciy/Nfkg1uhcpFbr6CRHmB5hs5eBXO7L4/9VdBWSlF9FrxenDlSYm/fWmGAkuC6Z+EedZNYQ1JMk5ze/K9LXRzOvnjH3bQHgMEVNNETQIDAQAB"
+        },
+        "data": {
+          "demo": {
+            "cipher": "Ni32t1+V07nPD454K+2wJdRHEtEkhLydqQDe/mShW4eh1K6Ex0cWR+587NrpXueuPsCg1t3Cg2zTd3dBp5P8s9hnsW7Ou7aiDq/8f2rGiTzzL7aqj3DTGpPVplXg43WirchJZrwNOrEfWiuCMRTSIWrctUOlhMYmkhjZlmk7TaPiE2ux4J3sj6PBYSF5ZpQLakKf0g+/ZSy+Du2e46yjNl268CeY2JFzxU2PTvemTfbFFQBt5P4CLJPreWuTKEvZETTa9T58TuJpz6LPZ1oK/8qvXS5XBizyUEur3LUVevLdfEsJjTLi41sx9WH5FgNERiMElCblWLW8Qbh4ont28g==",
+            "type": "env",
+            "value": "TXMP6pUQW+g8T1bwN/OA4gG1HbakLqc89FP3nhSghs4="
+          }
+        }
+      }
+    }
+  }
+}
