@@ -2,7 +2,7 @@
 title: "Informasjon om portalen"
 date: 2019-09-15T10:21:00+02:00
 draft: false
-aliases: [/no/about/]
+aliases: ["/about/","/no/about/"]
 ---
 
 {{< napdict "portalName" >}}  er det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen er opprettet for å ha tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.

@@ -14,8 +14,8 @@ Fra 1.1.2020 vil fylkene ha ansvar for å levere veg- og transportdata til State
 ## Entur
 [Entur](https://www.entur.org/) har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte. Fylkene, administrasjonsselskaper og private kollektivaktører leverer sine data til Entur. Entur legger metadata om datasettene i Transportportal.no.
 
-## Brønnøysundregistrene
- Transportportal.no inngår som en del av [«Felles datakatalog for Norge»](https://fellesdatakatalog.brreg.no/), og driftes av [Brønnøysundregistrene](https://www.brreg.no/).
+## Digitaliseringsdirektoratet
+ Transportportal.no inngår som en del av [«Felles datakatalog for Norge»](https://fellesdatakatalog.digdir.no/), og driftes av [Digitaliseringsdirektoratet](https://www.digdir.no/).
 
 ## Jernbanedirektoratet
 [Jernbanedirektoratet](https://www.jernbanedirektoratet.no/) har oppgaven som nasjonal tilsynsmyndighet for forordning [1926/2017](https://europalov.no/rettsakt/rammeverk-for-iverksetting-av-intelligente-transportsystemer-innen-veitransport-utfyllende/id-10179) om multimodale reiseinformasjonstjenester.
@@ -29,8 +29,8 @@ Fra 1.1.2020 vil fylkene ha ansvar for å levere veg- og transportdata til State
     class="naplogo" height="50" link="https://www.vegvesen.no/">}}
 {{< figure src="/images/entur.png" alt="Entur"
     class="naplogo" height="50" link="https://www.entur.org">}}
-{{< figure src="/images/brreg.svg" alt="Brønnøysundregistrene"
-    class="naplogo" height="30" link="https://www.brreg.no/">}}
+{{< figure src="/images/digdir.jpg" alt="Digitaliseringsdirektoratet"
+    class="naplogo" height="50" link="https://www.digdir.no/">}}
 {{< figure src="/images/jdir.png" alt="Jernbanedirektoratet"
         class="naplogo" height="50" link="https://www.jernbanedirektoratet.no/">}}
 {{< figure src="/images/vegtilsynet.jpg" alt="Vegtilsynet"

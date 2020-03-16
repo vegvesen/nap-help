@@ -2,7 +2,7 @@
 title: "Information about the portal"
 date: 2019-11-15T10:21:00+02:00
 draft: false
-aliases: "/about/"
+aliases: ["/en/about/"]
 ---
 {{< figure src="/images/19-0263-Trafikksikkerhetsplan_500.jpg" alt="Statens vegvesen"
     class="imgresponsive" width="400" attr="*Illustration: Martin Blystad, Statens vegvesen*">}}

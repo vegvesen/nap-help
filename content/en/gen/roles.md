@@ -11,8 +11,8 @@ draft: false
 ## Entur
 [Entur](https://www.entur.org/about-entur/) has the mandate to collect, adapt and coordinate travel data from all public transport companies in Norway, in such a way that all travelers may have access to the complete public transport supply in a uniform and standardized way.
 
-## Brønnøysundregistrene (BRREG)
-Transportportal.no is included as a dedicated part of [«The National Data Catalog for Norway»](https://fellesdatakatalog.brreg.no/about), which is operated by [Brønnøysundregistrene](https://www.brreg.no/).
+## Digitaliseringsdirektoratet (Norwegian Digitalisation Agency)
+Transportportal.no is included as a dedicated part of [«The National Data Catalog for Norway»](https://fellesdatakatalog.digdir.no/), which is operated by [Digitaliseringsdirektoratet](https://www.digdir.no/om-oss/about-norwegian-digitalisation-agency/887).
 
 
 ## Jernbanedirektoratet (The Norwegian Railway Directorate)
@@ -26,8 +26,8 @@ Transportportal.no is included as a dedicated part of [«The National Data Catal
     class="naplogo" height="50" link="https://www.vegvesen.no/en/">}}
 {{< figure src="/images/entur.png" alt="Entur"
     class="naplogo" height="50" link="https://www.entur.org/about-entur">}}
-{{< figure src="/images/brreg.svg" alt="Brønnøysundregistrene"
-    class="naplogo" height="30" link="https://www.brreg.no/">}}
+{{< figure src="/images/digdir.jpg" alt="Digitaliseringsdirektoratet"
+    class="naplogo" height="50" link="https://www.digdir.no/">}}
 {{< figure src="/images/jdir.png" alt="The Norwegian Railway Directorate"
         class="naplogo" height="50" link="https://www.jernbanedirektoratet.no/">}}
 {{< figure src="/images/vegtilsynet.jpg" alt="Vegtilsynet"

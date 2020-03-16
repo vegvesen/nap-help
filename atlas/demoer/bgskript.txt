@@ -1,4 +1,5 @@
-Da skal vi se på et opptak av det som animering av blue/green deploy viste, men nå utført vha Atlas kommandolinjeklienten og med monitorering i Openshift konsollet. For demoens skyld starter vi med å sjekke hvilket av våre to deploy som er koplet til dispatcher og som da sluttbrukerne ser.
+Da skal vi se på et opptak av det som animering av blue/green deploy viste, men nå utført vha Atlas kommandolinjeklienten og med monitorering i Openshift konsollet. For demoens skyld starter vi med å sjekke hvilket av våre to deploy som er koplet til dispatcher og som da sluttbrukerne ser. Dette kan  vi se både i Openshift konsollet og med ac-klienten.
+(mouseover i konsollet)
 
 <RETURN>
 
@@ -33,4 +34,4 @@ Da er grønt deploy opprettet og klart og vi kan kople dispatcheren over til det
 <STOPP OPPTAK>
 (mouseover i konsollet på vekt og kakediagram)
 
-Som vi ser er nå det grønne deployet koplet til dispatcherens rute (URL) med vekt 100%. Hvis noen lurer på i hvilke situasjoner man ikke har 100% vekt på deployet her, så er svaret "Canary deployment". Da vil typisk det gamle deployet ha en ganske høy vekt mens det nye (med kanarifuglen) har en lavere vekt, kanskje en 90/10 fordeling. DIspatcheren vil da sørge for at 10% av forespørslene rutes til det nye deployet.
+Som vi ser er nå det grønne deployet koplet til dispatcherens rute (URL) med vekt 100%. Hvis noen lurer på i hvilke situasjoner man ikke har 100% vekt på deployet her, så er svaret "Canary deployment". Da vil typisk det gamle deployet ha en ganske høy vekt mens det nye (med kanarifuglen) har en lavere vekt, kanskje en 90/10 fordeling. Dispatcheren vil da sørge for at 10% av forespørslene rutes til det nye deployet.
