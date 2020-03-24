@@ -12,11 +12,11 @@ The National Access Point does not contain the data itself or the services that 
 Metadata can be published in two ways:
 
  + By automatic harvest from a data portal in your own organization
-   + This is a good alternative for organizations already having a data portal where they publsih their open data and services. Some integration work by Brønnøysundregistrene (BRREG) and possibly on your own side must be expected. The NPRA data service on [dataut.vegvesen.no](https://dataut.vegvesen.no/) is an example of an internal data portal with this type of integration.
+   + This is a good alternative for organizations already having a data portal where they publsih their open data and services. Some integration work by Digitaliseringsdirektoratet (Digdir) and possibly on your own side must be expected. The NPRA data service on [dataut.vegvesen.no](https://dataut.vegvesen.no/) is an example of an internal data portal with this type of integration.
 
 
  + By direct input via a web form
-  + In this case you will use [the registration service from BRREG](https://fellesdatakatalog.brreg.no/about-registration). To be able to do this, you need to have a ["role" in Altinn](https://www.altinn.no/en/help/profile/roles-and-rights/) which gives you permissions to publish metadata on behalf of your organization. This must be set up by someone in your organization having the role  "Tilgangsstyring" in Altinn. When you log in to the registration service, you will be authenticated by [ID-porten](http://eid.difi.no/en/id-porten), where your roles at Altinn will be checked. If you have the right roles on behalf of at least one – possibly several organizations – you proceed by choosing organization, and will then be provided with the web form where you can register the metadata.
+  + In this case you will use [the registration service from Digdir](https://fellesdatakatalog.digdir.no/about-registration). To be able to do this, you need to have a ["role" in Altinn](https://www.altinn.no/en/help/profile/roles-and-rights/) which gives you permissions to publish metadata on behalf of your organization. This must be set up by someone in your organization having the role  "Tilgangsstyring" in Altinn. When you log in to the registration service, you will be authenticated by [ID-porten](http://eid.difi.no/en/id-porten), where your roles at Altinn will be checked. If you have the right roles on behalf of at least one – possibly several organizations – you proceed by choosing organization, and will then be provided with the web form where you can register the metadata.
 
 
 ## Metadata Standard - DCAT-AP
