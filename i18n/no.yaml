@@ -30,7 +30,7 @@
    til"
 # Felles datakatalog brreg
 - id: fkkat_URL
-  translation: "https://data.transportportal.no/"
+  translation: "https://data.transportportal.no/datasets"
 # dcat
 - id: dcat_URL
   translation: "https://doc.difi.no/dcat-ap-no/"
