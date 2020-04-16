@@ -19,14 +19,14 @@ fractions = "false"
 
 [languages]
   [languages.no]
-   datacat = "https://data.transportportal.no/"
+   datacat = "https://data.transportportal.no/datasets"
    datacatText = "Datakatalog"
    contentDir = "content/no"
    title = "transportportal.no"
    weight = 1
 
   [languages.en]
-    datacat = "https://data.transportportal.no/?lang=en"
+    datacat = "https://data.transportportal.no/datasets/?lang=en"
     datacatText = "Data Catalog"
     title = "transportportal.no"
     contentDir = "content/en"
