@@ -8,7 +8,7 @@ ____
 ### Viktige andre ting å legge merke til:
 
 + Det er kun satt opp to Atlas appmiljøer, "utvikling" og "produksjon" -  ikke behov for atm her, siden "testing" av hjelpesidene først foregår ved localhost preview av de genererte sidene som lages vha [Hugo](https://gohugo.io/). Dette kan ses på som motsvarende enhetstesting. "Integrasjonstesten" gjøres da ved å lage et bygg og kjøre opp et deploy mot "utvikling" (transportportal.utv.vegvesen.no)
-+ Byggene blir desverre miljøavhengige siden Hugo legger [baseURL](../config/_default/config.toml) inn i den genererte HTML koden, og en gzip av den genererte HTML koden er jo nettopp artifakten som brukes av bygget for å lage appimage
++ Byggene blir desverre miljøavhengige siden Hugo legger [baseURL](../config/_default/config.toml) inn i den genererte HTML koden, og en gzip av den genererte HTML koden er jo nettopp artefakten som brukes av bygget for å lage appimage
 + Atlas deployene er satt opp for enkelt å kunne gjøre [blue/green deploy](https://atlas-docs.atlas.vegvesen.no/atlas-dokumentasjon/latest/eksempler/bluegreen_deploy.html). Det betyr at endepunktet transportportal.atlas.vegvesen.no "eies" av en dispatcher som peker ut det underliggende deployet som til enhver tid skal være kjørende.
 + I begge app-miljøene heter deployene **transport-blue** og **transport-green**
 
