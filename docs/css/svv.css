@@ -1,0 +1,104 @@
+/* SVV overrides */
+.img-copyright {
+  color: white;
+  font-size: 10px;
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+/* Posisjonering av bildetekst */
+.svv-position {
+  position: relative;
+}
+
+.svv-small {
+  display: block!important;
+  margin-top: 0px!important;
+  padding-top: 0px!important;
+  font-size: 12px!important;
+  color: white!important;
+}
+/* Sist oppdatert */
+.lastupdate {
+  text-align: right!important;
+  font-size: smaller!important;
+}
+/*
+
+Fargesettinger :
+
+  #ececec - SVV lysgrå
+  #444f55 - SVV mørkegrå
+  #2e3539 - BRREG mørk grå
+  #58b02c - SVV grønn
+  #008ec2 - SVV blå
+  #ed9300 - SVV oransje
+
+*/
+
+/* Midtfelt */
+.main {
+  background-color: #fff!important
+}
+
+/* Topp navbar */
+nav.navbar {
+/*  background-color: #444f55!important */
+  background-color: #2e3539!important
+}
+a.navbar-brand {
+  color:   #58b02c!important;
+  margin-bottom: 0px!important;
+  padding-bottom: 0px!important;
+}
+/* Footer */
+footer {
+    background-color: #ececec;
+    color: #000000;
+    font-size: .8rem;
+    padding: 30px;
+}
+
+
+
+footer h5, footer a {
+    color: #008ec2!important;
+}
+
+.dropdown-menu, .dropdown-item {
+    background-color: #444f55;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: #ed9300;
+}
+
+/* Endret breakpoint */
+.sidebar {
+  flex: 0 0 25rem;
+}
+
+h2 {
+    font-size: 120%;
+  color: #008ec2!important
+}
+h1 {
+  color:   #008ec2!important
+}
+
+/* Fontstørrelser, innrykk mm på sidebar innhold */
+
+h3.mt-4 {
+  font-size: 120%!important;
+  color: #58b02c!important;
+  }
+
+
+.nav-link {
+  padding: 0em 0em 0em 1em;
+}
+
+figure.naplogo {
+  float: left!important;
+  padding: 0.5em;
+}
