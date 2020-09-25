@@ -1,5 +1,5 @@
-##baseURL = "https://vegvesen.github.io/nap-help/"
-baseURL = "https://transportportal.atlas.vegvesen.no"
+baseURL = "https://vegvesen.github.io/nap-help/"
+##baseURL = "https://transportportal.atlas.vegvesen.no"
 relativeURLs = "true"
 languageCode = "no"
 defaultContentLanguage = "no"

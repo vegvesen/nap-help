@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
-    <link>https://transportportal.utv.atlas.vegvesen.no/en/read/</link>
+    <link>https://vegvesen.github.io/nap-help/en/read/</link>
     <description>Recent content on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://transportportal.utv.atlas.vegvesen.no/en/read/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vegvesen.github.io/nap-help/en/read/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Where do I find the data?</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/read/what/</link>
+      <link>https://vegvesen.github.io/nap-help/en/read/what/</link>
       <pubDate>Tue, 14 Apr 2020 12:23:00 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/read/what/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/read/what/</guid>
       <description>You will find the sets of available data in the data catalogue of the portal. The portal contains only metadata describing the actual data and how to find them. The data sources are as a rule located elsewhere, and the metadata therefore contains the links to access the transport data. </description>
     </item>
     
     <item>
       <title>Data in NAP</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/en/read/data/</link>
+      <link>https://vegvesen.github.io/nap-help/en/read/data/</link>
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/en/read/data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/en/read/data/</guid>
       <description>The portal contains mainly data and services required by the delegated regulations under the ITS Directive. For example:
  Traffic information about incidents, travels time, road weather and driving conditions Static data about the road network Public transport services and real time information Public transport stops and terminals Data on traffic on the road network Information about parking facilities Data about «new micro mobility services» like city bikes, electric scooters etc.</description>
     </item>

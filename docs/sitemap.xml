@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://transportportal.utv.atlas.vegvesen.no/no/sitemap.xml</loc>
+	   	<loc>https://vegvesen.github.io/nap-help/no/sitemap.xml</loc>
 		
 	   	<lastmod>2020-09-23T19:56:46+02:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://transportportal.utv.atlas.vegvesen.no/en/sitemap.xml</loc>
+	   	<loc>https://vegvesen.github.io/nap-help/en/sitemap.xml</loc>
 		
 	   	<lastmod>2020-04-16T06:28:51+02:00</lastmod>
 		

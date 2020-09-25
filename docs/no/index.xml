@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
-    <link>https://transportportal.utv.atlas.vegvesen.no/no/</link>
+    <link>https://vegvesen.github.io/nap-help/no/</link>
     <description>Recent content on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Thu, 21 Nov 2019 10:21:00 +0200</lastBuildDate>
     
-	<atom:link href="https://transportportal.utv.atlas.vegvesen.no/no/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vegvesen.github.io/nap-help/no/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nyheter fra innholdsleverandører</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/news/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/news/</link>
       <pubDate>Wed, 23 Sep 2020 17:41:31 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/gen/news/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/news/</guid>
       <description>Test av RSS
  if (typeof (fg_widgets) === &amp;laquo;undefined&amp;raquo;) fg_widgets = new Array(); fg_widgets.push(&amp;laquo;fgid_5c34c296faadaddf1da19cb08&amp;raquo;);</description>
     </item>
     
     <item>
       <title>GDPR og personvern</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/write/gdpr/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/gdpr/</link>
       <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/write/gdpr/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/gdpr/</guid>
       <description>Alle datasettene som portalen lenker til skal være i samsvar med General Data Protection Regulations (GDPR). Ingen personopplysninger skal kunne trekkes ut fra datasettene.
  Illustrasjon: Trond Foss, Sintef
   For mer informasjon om GDPR se Datatilsynet
@@ -35,20 +35,20 @@ Sist oppdatert: 7. january 2020</description>
     
     <item>
       <title>Hvor finner jeg data?</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/read/what/</link>
+      <link>https://vegvesen.github.io/nap-help/no/read/what/</link>
       <pubDate>Mon, 04 Nov 2019 12:23:00 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/read/what/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/read/what/</guid>
       <description>Datasettene finner du i portalens datakatalog. Portalen inneholder kun metadata om datasettene, dvs. data som beskriver datasettet og hvordan få tilgang. Datakildene er plassert et annet sted, og metadataene inneholder linker til disse.
 Sist oppdatert: 7. january 2020</description>
     </item>
     
     <item>
       <title>Samsvarserklæring</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/write/conform/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/conform/</link>
       <pubDate>Mon, 23 Sep 2019 07:48:42 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/write/conform/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/conform/</guid>
       <description>Dataeiere og tjenestetilbydere som deler sine data og tjenester i portalen, må følge EU-forordningenes krav med hensyn til samsvarserklæring. For forordning 886/2013 leverer datatilbydere av trafikksikkerhetsrelatert informasjon sin samsvarserklæring til Vegtilsynet. For forordning 962/2015 og 1926/2017 pågår avklaring av praksis. Mer informasjon vil komme.
 Skjema for samsvarserklæring:
  For 886/2013 om tilgjengeliggjøring av sikkerhetsrelatert informasjon For 962/2015 om tilgjengeliggjøring av sanntids trafikkinformasjon  Sist oppdatert: 7. january 2020</description>
@@ -56,10 +56,10 @@ Skjema for samsvarserklæring:
     
     <item>
       <title>Roller og ansvar</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/roles/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/roles/</link>
       <pubDate>Fri, 20 Sep 2019 11:54:59 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/gen/roles/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/roles/</guid>
       <description>Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvaltning av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
 Fra 1.1.2020 vil fylkene ha ansvar for å levere veg- og transportdata til Statens vegvesen. Statens vegvesen legger metadata om datasettene i Transportportal.no.
 Entur Entur har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte.</description>
@@ -67,10 +67,10 @@ Entur Entur har mandat til å koordinere, bearbeide og sy sammen reisedata fra a
     
     <item>
       <title>ITS direktiv og forordninger</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/its/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/its/</link>
       <pubDate>Fri, 20 Sep 2019 10:34:05 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/gen/its/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/its/</guid>
       <description>EUs ITS-direktiv 2010/40/EU pålegger EUs medlemsstater, og Norge gjennom EØS-avtalen, å etablere et nasjonalt tilgangspunkt for tilgjengeliggjøring av veg- og transportdata. Formålet er å oppnå sammenhengende og interoperable tjenester i Europa.
 Direktivet er senere etterfulgt av mer detaljerte forordninger:
  Forordning 885/2013 - informasjonstjenester for sikker parkering av lastebiler og nyttekjøretøyer (ingen offisiell tjeneste i Norge foreløpig) Forordning 886/2013 - tilgjengeliggjøring av sikkerhetsrelatert informasjon Forordning 962/2015 - tilgjengeliggjøring av sanntids trafikkinformasjon Forordning 1926/2017 - multimodale reiseinformasjonstjenester (under implementering)  Sist oppdatert: 7.</description>
@@ -78,20 +78,20 @@ Direktivet er senere etterfulgt av mer detaljerte forordninger:
     
     <item>
       <title>Informasjon om portalen</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/about/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/about/</link>
       <pubDate>Sun, 15 Sep 2019 10:21:00 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/gen/about/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/about/</guid>
       <description>transportportal.noer det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen er opprettet for å ha tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.
 Portalen inneholder data om blant annet veg, vegstatus, hendelser, reisetider, kollektivruter, rutetider, informasjon, varsling og mobilitetstjenester som bysykler. Disse dataene kan brukes til å lage egne tjenester. Man kan og kombinere data fra ulike datasett til å lage nye, fremtidsrettede, gode mobilitetstjenester rettet mot alle trafikanter.</description>
     </item>
     
     <item>
       <title>Hva finnes av data?</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/read/data/</link>
+      <link>https://vegvesen.github.io/nap-help/no/read/data/</link>
       <pubDate>Wed, 11 Sep 2019 12:04:31 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/read/data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/read/data/</guid>
       <description>Portalen inneholder hovedsakelig datasett og tjenester som omfattes av ITS-direktivets forordninger, for eksempel:
  Trafikkinformasjon om hendelser, reisetider, vær- og føreforhold Statiske data om vegnettet Rute- og sanntidsinformasjon om kollektivtrafikk Stoppestedsregister for kollektivtrafikk Data om trafikken på vegnettet Informasjon om parkeringsplasser Data om «nye mobilitetsformer» som bysykler, sparkesykler, etc.   For utfyllende informasjon, se ITS direktivet og forordningene.
 Sist oppdatert: 7. january 2020</description>
@@ -99,10 +99,10 @@ Sist oppdatert: 7. january 2020</description>
     
     <item>
       <title>Legge inn data</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/write/add-data/</link>
+      <link>https://vegvesen.github.io/nap-help/no/write/add-data/</link>
       <pubDate>Sat, 20 Jul 2019 06:49:25 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/write/add-data/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/write/add-data/</guid>
       <description>Tilgangspunktet inneholder ikke selve datasettene og tjenestene som skal tilgjengeliggjøres, men kun metadata for disse. Som en del av metadataene vil man finne linker til de underliggende tjenestene og datasettene.
 Legg inn metadata Innlegging av metadata kan skje på to måter:
  Via automatisk høsting av metadata fra egen organisasjonsportal

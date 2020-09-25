@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportportal.no</title>
-    <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/</link>
+    <link>https://vegvesen.github.io/nap-help/no/gen/</link>
     <description>Recent content on transportportal.no</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	<atom:link href="https://transportportal.utv.atlas.vegvesen.no/no/gen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vegvesen.github.io/nap-help/no/gen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nyheter fra innholdsleverandører</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/news/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/news/</link>
       <pubDate>Wed, 23 Sep 2020 17:41:31 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/gen/news/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/news/</guid>
       <description>Test av RSS
  if (typeof (fg_widgets) === &amp;laquo;undefined&amp;raquo;) fg_widgets = new Array(); fg_widgets.push(&amp;laquo;fgid_5c34c296faadaddf1da19cb08&amp;raquo;);</description>
     </item>
     
     <item>
       <title>Roller og ansvar</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/roles/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/roles/</link>
       <pubDate>Fri, 20 Sep 2019 11:54:59 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/gen/roles/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/roles/</guid>
       <description>Statens vegvesen Statens vegvesen har nasjonalt mandat som forvalter av tilgangspunktet, og har ansvar for realisering, bruk og forvaltning av løsningen. Statens vegvesen har dessuten ansvar for support og andre spørsmål knyttet til portalen. Se kontaktinformasjon nederst på alle hjelpesidene.
 Fra 1.1.2020 vil fylkene ha ansvar for å levere veg- og transportdata til Statens vegvesen. Statens vegvesen legger metadata om datasettene i Transportportal.no.
 Entur Entur har mandat til å koordinere, bearbeide og sy sammen reisedata fra alle kollektivselskap i landet, slik at alle reisende kan få tilgang til hele landets kollektivtilbud på en enhetlig og standardisert måte.</description>
@@ -33,10 +33,10 @@ Entur Entur har mandat til å koordinere, bearbeide og sy sammen reisedata fra a
     
     <item>
       <title>ITS direktiv og forordninger</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/its/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/its/</link>
       <pubDate>Fri, 20 Sep 2019 10:34:05 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/gen/its/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/its/</guid>
       <description>EUs ITS-direktiv 2010/40/EU pålegger EUs medlemsstater, og Norge gjennom EØS-avtalen, å etablere et nasjonalt tilgangspunkt for tilgjengeliggjøring av veg- og transportdata. Formålet er å oppnå sammenhengende og interoperable tjenester i Europa.
 Direktivet er senere etterfulgt av mer detaljerte forordninger:
  Forordning 885/2013 - informasjonstjenester for sikker parkering av lastebiler og nyttekjøretøyer (ingen offisiell tjeneste i Norge foreløpig) Forordning 886/2013 - tilgjengeliggjøring av sikkerhetsrelatert informasjon Forordning 962/2015 - tilgjengeliggjøring av sanntids trafikkinformasjon Forordning 1926/2017 - multimodale reiseinformasjonstjenester (under implementering)  Sist oppdatert: 7.</description>
@@ -44,10 +44,10 @@ Direktivet er senere etterfulgt av mer detaljerte forordninger:
     
     <item>
       <title>Informasjon om portalen</title>
-      <link>https://transportportal.utv.atlas.vegvesen.no/no/gen/about/</link>
+      <link>https://vegvesen.github.io/nap-help/no/gen/about/</link>
       <pubDate>Sun, 15 Sep 2019 10:21:00 +0200</pubDate>
       
-      <guid>https://transportportal.utv.atlas.vegvesen.no/no/gen/about/</guid>
+      <guid>https://vegvesen.github.io/nap-help/no/gen/about/</guid>
       <description>transportportal.noer det nasjonale tilgangspunktet for data om veg- og transport i Norge. Portalen er opprettet for å ha tilgang til alle veg-, transport- og mobilitetsdata fra samme sted.
 Portalen inneholder data om blant annet veg, vegstatus, hendelser, reisetider, kollektivruter, rutetider, informasjon, varsling og mobilitetstjenester som bysykler. Disse dataene kan brukes til å lage egne tjenester. Man kan og kombinere data fra ulike datasett til å lage nye, fremtidsrettede, gode mobilitetstjenester rettet mot alle trafikanter.</description>
     </item>
