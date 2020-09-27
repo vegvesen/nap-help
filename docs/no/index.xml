@@ -12,16 +12,6 @@
     
     
     <item>
-      <title>Nyheter fra innholdsleverandører</title>
-      <link>https://vegvesen.github.io/nap-help/no/gen/news/</link>
-      <pubDate>Wed, 23 Sep 2020 17:41:31 +0200</pubDate>
-      
-      <guid>https://vegvesen.github.io/nap-help/no/gen/news/</guid>
-      <description>Test av RSS
- if (typeof (fg_widgets) === &amp;laquo;undefined&amp;raquo;) fg_widgets = new Array(); fg_widgets.push(&amp;laquo;fgid_5c34c296faadaddf1da19cb08&amp;raquo;);</description>
-    </item>
-    
-    <item>
       <title>GDPR og personvern</title>
       <link>https://vegvesen.github.io/nap-help/no/write/gdpr/</link>
       <pubDate>Tue, 05 Nov 2019 12:53:09 +0100</pubDate>
