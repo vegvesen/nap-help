@@ -34,6 +34,8 @@ KEY=`cat $ARTREPO_KEYFILE`
 
 fortsett "Uploading artefact $FILE to Artifactory repo ${ARTREPO_REPO}, group $GROUP, artefact $ARTIFACT_ID ..."
 
+echo "curl -H X-JFrog-Art-Api:${KEY} -T ${FILE} https://artrepo.vegvesen.no/artifactory/${ARTREPO_REPO}/${GROUP}/${ARTIFACT_ID}/"
+
 curl -H X-JFrog-Art-Api:${KEY} -T ${FILE} https://artrepo.vegvesen.no/artifactory/${ARTREPO_REPO}/${GROUP}/${ARTIFACT_ID}/
 
 fortsett "Artefact uploaded, delete file $FILE?"

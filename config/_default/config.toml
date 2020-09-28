@@ -1,5 +1,4 @@
-baseURL = "https://vegvesen.github.io/nap-help/"
-##baseURL = "https://transportportal.atlas.vegvesen.no"
+baseURL = "https://transportportal.atlas.vegvesen.no"
 relativeURLs = "true"
 languageCode = "no"
 defaultContentLanguage = "no"
@@ -7,7 +6,8 @@ defaultContentLanguageInSubdir = true
 buildDrafts = false
 enableEmoji = true
 enableGitInfo = true
-EnableMissingTranslationPlaceholders = "true"
+enableMissingTranslationPlaceholders = "true"
+enableInlineShortcodes = "true"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "silhouette-hugo"
 publishDir = "docs"
